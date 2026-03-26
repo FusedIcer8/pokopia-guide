@@ -1,0 +1,252 @@
+[
+  {
+    "id": "tip-001",
+    "title": "Vacuum Inhale with Y Button",
+    "category": "quality-of-life",
+    "description": "Hold Y to vacuum up nearby dropped items instantly.",
+    "detail": "When items are scattered on the ground after harvesting, breaking blocks, or collecting from Pokemon, hold the Y button to vacuum-inhale everything nearby. This saves an enormous amount of time compared to picking things up one by one. Works on all loose items, crafting materials, and food drops. Get in the habit of tapping Y after every harvesting session — it is one of the biggest quality-of-life features in the game.",
+    "tags": ["controls", "items", "harvesting", "time-saver"],
+    "gamePhase": "early",
+    "icon": "\ud83c\udf00"
+  },
+  {
+    "id": "tip-002",
+    "title": "Storage Box + Workbench Combo",
+    "category": "efficiency",
+    "description": "Place Storage Boxes touching your Workbench to auto-access stored materials while crafting.",
+    "detail": "When a Storage Box is placed directly adjacent to (touching) a Workbench, the Workbench can pull materials directly from that Storage Box for crafting. You do not need to manually move items into your inventory first. This is a game-changer for bulk crafting sessions. Place multiple Storage Boxes around your main Workbench to have all your materials available at once without any inventory juggling.",
+    "tags": ["crafting", "building", "storage", "automation"],
+    "gamePhase": "early",
+    "icon": "\ud83d\udce6"
+  },
+  {
+    "id": "tip-003",
+    "title": "Grid Building with ZL",
+    "category": "quality-of-life",
+    "description": "Hold ZL while building for precise grid-snapping placement.",
+    "detail": "Holding ZL while in building mode activates grid-based placement, snapping blocks and objects to an invisible grid. This makes walls line up perfectly, floors tile evenly, and furniture sit exactly where you want it. Essential for building proper houses that meet the Environment Level requirements. Without grid mode, placement is freeform and things can look messy or fail to register as enclosed rooms.",
+    "tags": ["building", "controls", "precision", "houses"],
+    "gamePhase": "early",
+    "icon": "\ud83d\udcd0"
+  },
+  {
+    "id": "tip-004",
+    "title": "Learn Jump from Magikarp Early",
+    "category": "priorities",
+    "description": "Help Magikarp as soon as possible to unlock the Jump ability (R button).",
+    "detail": "One of the first Pokemon you should seek out and help is Magikarp. Completing Magikarp's request teaches you the Jump ability, mapped to the R button. Jump is essential for reaching higher terrain, crossing gaps, and accessing new areas throughout the entire game. Without it, you are stuck on flat ground. Magikarp can be found early in Withered Wasteland near water. Prioritize this before spending time on heavy building projects.",
+    "tags": ["abilities", "movement", "progression", "magikarp"],
+    "gamePhase": "early",
+    "icon": "\ud83d\udc1f"
+  },
+  {
+    "id": "tip-005",
+    "title": "Visit Dream Islands Daily",
+    "category": "priorities",
+    "description": "Interact with Drifloon dolls daily — Dream Islands are your only source of Stardust.",
+    "detail": "Dream Islands are accessed by interacting with Drifloon dolls scattered around the world. Each doll type sends you to a different island type with unique materials. Most importantly, Dream Islands are the only source of Stardust, a critical late-game resource used for high-tier crafting. Make visiting Dream Islands part of your daily routine. There are 7 doll types and 5 island types, each yielding different materials and rewards.",
+    "tags": ["dream-islands", "stardust", "dailies", "drifloon", "resources"],
+    "gamePhase": "all",
+    "icon": "\ud83c\udf88"
+  },
+  {
+    "id": "tip-006",
+    "title": "Build Houses, Not Just Habitats",
+    "category": "efficiency",
+    "description": "Houses (4 walls + door + 3 furniture) raise Environment Level far faster than open habitats.",
+    "detail": "A proper house requires 4 walls, a door, and at least 3 pieces of furniture inside. Houses contribute significantly more to your Environment Level than open-air habitats or scattered furniture. Environment Level (max 10) is what attracts new Pokemon and unlocks Trainer Rank upgrades (Great, Ultra, Master). If your Environment Level feels stuck, focus on building complete houses rather than decorating open spaces. Each completed house is a big jump in points.",
+    "tags": ["building", "environment-level", "houses", "progression"],
+    "gamePhase": "early",
+    "icon": "\ud83c\udfe0"
+  },
+  {
+    "id": "tip-007",
+    "title": "Listen for Legendary Bird Sounds",
+    "category": "quality-of-life",
+    "description": "Bird sounds overhead mean a legendary Pokemon is dropping rare feathers nearby.",
+    "detail": "When you hear distinct bird cries or wing sounds from above while exploring, look up and around. Legendary bird Pokemon (Articuno, Zapdos, Moltres) occasionally fly overhead and drop rare feathers. These feathers are used in high-tier crafting recipes and are very easy to miss if you are not paying attention to audio cues. Turn your volume up and keep an ear out, especially in open areas with clear sky views.",
+    "tags": ["legendaries", "feathers", "audio-cue", "rare-items"],
+    "gamePhase": "mid",
+    "icon": "\ud83e\udeb6"
+  },
+  {
+    "id": "tip-008",
+    "title": "Paldean Wooper Infinite Water Source",
+    "category": "efficiency",
+    "description": "Place 4 bushes near the brown waterfall in Bleak Beach to unlock Paldean Wooper.",
+    "detail": "In Bleak Beach, find the brown waterfall area and place 4 bushes nearby. This triggers Paldean Wooper to appear, and once befriended, Paldean Wooper acts as an infinite water source for your base. This is incredibly valuable for farming, as watering crops manually or relying on Water-specialty Pokemon gets tedious at scale. Prioritize this once you have access to Bleak Beach — it removes one of the biggest bottlenecks in crop farming.",
+    "tags": ["water", "farming", "paldean-wooper", "bleak-beach", "automation"],
+    "gamePhase": "mid",
+    "icon": "\ud83d\udca7"
+  },
+  {
+    "id": "tip-009",
+    "title": "Cooked Food Upgrades Your Abilities",
+    "category": "priorities",
+    "description": "Keep cooked dishes in your inventory to power up Leafage, Water Gun, Cut, and Rock Smash.",
+    "detail": "Cooked food does more than restore stamina in Pokopia. Keeping specific dish types in your inventory actively upgrades your core abilities: Salads upgrade Leafage (plant-related actions), Soups upgrade Water Gun (water actions), Bread upgrades Cut (harvesting and chopping), and Hamburger Steaks upgrade Rock Smash (breaking rocks and hard blocks). Always carry a variety of cooked dishes to keep all your abilities enhanced. The upgrades are significant and make gathering much faster.",
+    "tags": ["cooking", "abilities", "upgrades", "food"],
+    "gamePhase": "early",
+    "icon": "\ud83c\udf73"
+  },
+  {
+    "id": "tip-010",
+    "title": "3D Printer at Pokemon Centers",
+    "category": "quality-of-life",
+    "description": "Use the 3D Printer to craft items on demand from photos you have taken.",
+    "detail": "Pokemon Centers have 3D Printers that let you reproduce items from photographs. If you have taken a photo of an item or object using the camera feature, you can use the 3D Printer to create a copy on demand. This is great for getting duplicates of rare furniture, decorations, or functional items without hunting for them again. Take photos of everything interesting you find — your photo library doubles as a crafting catalog at any Pokemon Center.",
+    "tags": ["crafting", "pokemon-center", "3d-printer", "photos"],
+    "gamePhase": "mid",
+    "icon": "\ud83d\udda8\ufe0f"
+  },
+  {
+    "id": "tip-011",
+    "title": "Trade Relics with Gimmighoul",
+    "category": "efficiency",
+    "description": "Collect relics and trade them with Gimmighoul for rare items and materials.",
+    "detail": "Gimmighoul appears in various locations and trades relics for valuable items you cannot get elsewhere. Relics are found in ruins, underground areas, and occasionally from Dream Islands. Do not sell or discard relics — save them all for Gimmighoul trades. Some of the best crafting materials and unique furniture pieces come exclusively from these trades. Keep an eye out for Gimmighoul hiding in chests throughout the world.",
+    "tags": ["trading", "gimmighoul", "relics", "rare-items"],
+    "gamePhase": "mid",
+    "icon": "\ud83e\ude99"
+  },
+  {
+    "id": "tip-012",
+    "title": "Unlock Chef Dente for Cooking",
+    "category": "priorities",
+    "description": "Find the Greedent hiding in a barrel at Rocky Ridges to unlock the full cooking system.",
+    "detail": "Chef Dente is a Greedent NPC found inside a barrel at Rocky Ridges. Interacting with and helping Chef Dente unlocks the full cooking system, giving you access to 24 recipes across 4 categories (salads, soups, bread, and hamburger steaks) and 5 flavor profiles. Cooking is essential because each food category upgrades a different ability. Unlock Chef Dente as soon as you reach Rocky Ridges — do not skip this or put it off.",
+    "tags": ["cooking", "chef-dente", "greedent", "rocky-ridges", "recipes"],
+    "gamePhase": "early",
+    "icon": "\ud83e\uddd1\u200d\ud83c\udf73"
+  },
+  {
+    "id": "tip-013",
+    "title": "Use Grow Specialty Pokemon for Farming",
+    "category": "efficiency",
+    "description": "Pokemon with the Grow specialty (like Bulbasaur line) speed up crop growth nearby.",
+    "detail": "Certain Pokemon have a Grow specialty, meaning crops planted near them grow faster. The Bulbasaur line is the most well-known Grow-specialty Pokemon, but others exist too. Place your farm plots within or adjacent to a Grow Pokemon's habitat to get the speed bonus. This stacks with proper watering and can cut growth times significantly. Check each Pokemon's specialty in the Pokedex before deciding where to place them.",
+    "tags": ["farming", "pokemon-specialty", "grow", "bulbasaur", "crops"],
+    "gamePhase": "early",
+    "icon": "\ud83c\udf31"
+  },
+  {
+    "id": "tip-014",
+    "title": "Litter Specialty = Free Resources",
+    "category": "efficiency",
+    "description": "Litter-specialty Pokemon auto-drop items: Combee drops Honey, Mareep drops Fluff, Haxorus drops Small Logs.",
+    "detail": "Some Pokemon have a Litter specialty, meaning they passively drop items in their habitat over time. Combee drops Honey, Mareep drops Fluff, and Haxorus drops Small Logs, among many others. Place a Community Box nearby and these items will accumulate automatically. This is one of the best passive resource farms in the game. Build habitats specifically for Litter Pokemon near your crafting area for maximum efficiency.",
+    "tags": ["pokemon-specialty", "litter", "resources", "automation", "combee", "mareep", "haxorus"],
+    "gamePhase": "mid",
+    "icon": "\ud83c\udf81"
+  },
+  {
+    "id": "tip-015",
+    "title": "Community Box + Gather Pokemon",
+    "category": "efficiency",
+    "description": "Place a Community Box near Gather-specialty Pokemon for hands-free item collection.",
+    "detail": "Pokemon with the Gather specialty automatically collect loose items in their habitat and deposit them into nearby Community Boxes. Pair Gather Pokemon with Litter Pokemon in the same area, place a Community Box, and you have a fully automated resource loop: Litter Pokemon drop items, Gather Pokemon pick them up and store them. Check your Community Boxes periodically and you will have piles of free materials waiting for you.",
+    "tags": ["automation", "community-box", "gather", "pokemon-specialty", "passive-income"],
+    "gamePhase": "mid",
+    "icon": "\ud83d\udce5"
+  },
+  {
+    "id": "tip-016",
+    "title": "Plant Beans First — No Watering Needed",
+    "category": "beginner",
+    "description": "Beans grow without watering, making them the perfect starter crop.",
+    "detail": "Unlike Tomatoes or Wheat, Beans do not require watering to grow. They are the ideal first crop for new players who have not yet unlocked Water-specialty Pokemon or the Paldean Wooper infinite water source. Plant Beans as soon as you get access to seeds and the Rototiller from Drilbur. They provide a reliable food source with zero maintenance while you focus on exploring and building in the early game.",
+    "tags": ["farming", "beans", "beginner", "crops", "low-maintenance"],
+    "gamePhase": "early",
+    "icon": "\ud83e\uded8"
+  },
+  {
+    "id": "tip-017",
+    "title": "Teleport Home via Pokedex",
+    "category": "quality-of-life",
+    "description": "You can instantly teleport back to your base anytime through the Pokedex menu.",
+    "detail": "Open your Pokedex and you will find an option to teleport home instantly. No items needed, no cooldown, no penalty. This is invaluable when your inventory is full from gathering, when you need to cook or craft, or when you just want to check on your base. Many players do not discover this feature for hours and waste time walking back manually. Use it freely whenever you need to.",
+    "tags": ["fast-travel", "pokedex", "teleport", "navigation"],
+    "gamePhase": "early",
+    "icon": "\ud83c\udfe1"
+  },
+  {
+    "id": "tip-018",
+    "title": "Hide Generators Underground",
+    "category": "quality-of-life",
+    "description": "Generators can be placed below ground level for clean, hidden power systems.",
+    "detail": "Generators power your advanced crafting stations and lighting, but they are bulky and not pretty to look at. The game allows you to dig below the surface and place generators underground. They still provide power to everything above them, but your base looks clean and uncluttered. Dig a small underground room, place your generators inside, cover it up, and enjoy powered facilities with no visual clutter. A must-know trick for aesthetic builders.",
+    "tags": ["building", "generators", "power", "aesthetics", "underground"],
+    "gamePhase": "mid",
+    "icon": "\u26a1"
+  },
+  {
+    "id": "tip-019",
+    "title": "Upgraded Cut Harvests 8 Blocks at Once",
+    "category": "efficiency",
+    "description": "Upgrade Cut through cooking Bread to harvest a 2x4 area of crops in a single swing.",
+    "detail": "By keeping Bread in your inventory, your Cut ability gets upgraded. At higher levels, a single Cut swing harvests an entire 2x4 block area (8 crop tiles at once). This transforms farming from tedious one-at-a-time harvesting into rapid bulk collection. Combined with the Y-button vacuum inhale for item pickup, you can clear an entire large farm field in seconds. Always carry Bread when you plan to do any harvesting.",
+    "tags": ["abilities", "cut", "farming", "harvesting", "bread", "upgrades"],
+    "gamePhase": "mid",
+    "icon": "\ud83c\udf3e"
+  },
+  {
+    "id": "tip-020",
+    "title": "Speed Up Construction with Dumping Ground Trick",
+    "category": "efficiency",
+    "description": "Use Oversized Dumping Ground + moving builders to Community Boxes to cut build time to about 1 hour.",
+    "detail": "When building large structures, construction can take a very long time with the default setup. To speed this up dramatically, place an Oversized Dumping Ground loaded with materials and move your builder Pokemon to nearby Community Boxes. The builders will pull materials rapidly from the Dumping Ground and Community Boxes, reducing construction time to roughly 1 hour even for complex builds. This is the most efficient construction setup in the game.",
+    "tags": ["building", "construction", "speed", "dumping-ground", "optimization"],
+    "gamePhase": "mid",
+    "icon": "\ud83c\udfd7\ufe0f"
+  },
+  {
+    "id": "tip-021",
+    "title": "Post-Game Magnet Rise = Flying + 9-Block Placement",
+    "category": "efficiency",
+    "description": "After completing the story, Magnet Rise lets you fly freely and place 9 blocks at once.",
+    "detail": "Magnet Rise is a post-game ability that completely changes how you play. It lets you fly freely through the air and place blocks in a 3x3 pattern (9 blocks at once). This makes large-scale building projects trivially fast and lets you reach any terrain without obstacles. It is the ultimate reward for completing the main story and makes revisiting earlier areas and tackling ambitious building projects an absolute joy.",
+    "tags": ["post-game", "abilities", "magnet-rise", "flying", "building"],
+    "gamePhase": "late",
+    "icon": "\ud83e\uddf2"
+  },
+  {
+    "id": "tip-022",
+    "title": "Get the Rototiller from Drilbur",
+    "category": "beginner",
+    "description": "Befriend Drilbur early to receive the Rototiller, which lets you till soil for farming.",
+    "detail": "You cannot farm without tilled soil, and you cannot till soil without the Rototiller. Befriend Drilbur, who can be found digging around in Withered Wasteland, and it will give you the Rototiller tool. This unlocks the entire farming system. Pair the Rototiller with Beans (which need no watering) and you have a reliable food pipeline from your very first day. Do this before spending time on big building projects.",
+    "tags": ["farming", "tools", "drilbur", "rototiller", "beginner"],
+    "gamePhase": "early",
+    "icon": "\ud83d\udd27"
+  },
+  {
+    "id": "tip-023",
+    "title": "Professor Tangrowth Teaches Core Abilities",
+    "category": "beginner",
+    "description": "Meet Professor Tangrowth in Withered Wasteland to learn Water Gun, Leafage, Cut, and Rock Smash.",
+    "detail": "Professor Tangrowth is your first major NPC contact in Pokopia. Found in Withered Wasteland, Tangrowth teaches you the four core abilities: Water Gun (watering and water interactions), Leafage (plant growth and interaction), Cut (harvesting crops and chopping materials), and Rock Smash (breaking rocks and hard blocks). These are the foundation of everything you do in the game. Follow Tangrowth's tutorial quests carefully — they teach mechanics you will use for the entire playthrough.",
+    "tags": ["abilities", "tutorial", "tangrowth", "beginner", "withered-wasteland"],
+    "gamePhase": "early",
+    "icon": "\ud83c\udf93"
+  },
+  {
+    "id": "tip-024",
+    "title": "Environment Level Attracts New Pokemon",
+    "category": "beginner",
+    "description": "Raise your Environment Level (max 10) to attract rarer Pokemon to your areas.",
+    "detail": "Environment Level is the single most important progression metric for attracting Pokemon. It goes up to 10 and increases based on the quality and completeness of structures in an area. Complete houses (4 walls + door + 3 furniture inside) give the most Environment Level points. Higher levels attract rarer Pokemon and unlock Trainer Rank milestones (Great, Ultra, Master). Focus on building proper houses over scattered decorations to climb Environment Levels efficiently.",
+    "tags": ["environment-level", "progression", "pokemon", "building", "trainer-rank"],
+    "gamePhase": "all",
+    "icon": "\ud83d\udcca"
+  },
+  {
+    "id": "tip-025",
+    "title": "You Are Ditto — Embrace It",
+    "category": "beginner",
+    "description": "Your character is a Ditto imitating a human. This is central to the story and gameplay.",
+    "detail": "Unlike other Pokemon games, you are not a human trainer. You are a Ditto who has transformed to look like a human in a post-apocalyptic Kanto. There are no Pokemon battles and no evolutions — the game is entirely about building habitats, crafting items, cooking meals, and befriending over 300 Pokemon. Lean into the life-sim and building aspects rather than expecting combat mechanics. The Ditto identity is a key story thread that unfolds as you play.",
+    "tags": ["story", "ditto", "identity", "beginner"],
+    "gamePhase": "early",
+    "icon": "\ud83d\udfe3"
+  }
+]

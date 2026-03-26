@@ -1,0 +1,183 @@
+[
+  {
+    "id": "guide-001",
+    "title": "Getting Started in Pokopia",
+    "type": "beginner",
+    "summary": "Everything you need to know for your first hours in Pokopia — from meeting Professor Tangrowth to planting your first crops and building your first habitat in post-apocalyptic Kanto.",
+    "sections": [
+      {
+        "heading": "Welcome to Post-Apocalyptic Kanto",
+        "content": "Pokopia is set in a post-apocalyptic version of Kanto where nature has reclaimed the land. You play as a Ditto who has transformed to look like a human. There are no Pokemon battles and no evolutions in this game — instead, you will build habitats, craft items, cook meals, and befriend over 300 Pokemon. Your goal is to restore the land and create thriving communities where Pokemon want to live. Take a deep breath and enjoy the slower pace — this is a life-sim and building game at heart."
+      },
+      {
+        "heading": "Meeting Professor Tangrowth",
+        "content": "Your adventure begins in the Withered Wasteland, where you will meet Professor Tangrowth — the game's main guide NPC. Tangrowth teaches you the four core abilities that form the foundation of all gameplay: Water Gun (watering crops and interacting with water), Leafage (growing plants and interacting with vegetation), Cut (harvesting crops and chopping materials), and Rock Smash (breaking rocks and hard blocks). Pay close attention to these tutorial quests. Every single thing you do in Pokopia flows from these four abilities."
+      },
+      {
+        "heading": "Getting Jump from Magikarp",
+        "content": "One of your top early priorities is finding and helping Magikarp, also in the Withered Wasteland near water. Completing Magikarp's request teaches you the Jump ability, mapped to the R button. Jump lets you reach higher terrain, cross gaps, and access areas that are completely blocked off without it. Many players delay this and get frustrated when they cannot progress. Seek out Magikarp early — it is one of the most important unlocks in the entire game."
+      },
+      {
+        "heading": "Your First Farm",
+        "content": "To start farming, you need the Rototiller tool from Drilbur (found digging in Withered Wasteland). Once you have the Rototiller, till some soil and plant Beans as your first crop. Beans are special because they grow without watering, making them the perfect no-maintenance starter food. Tomatoes and Wheat require watering, so save those for when you have Water-specialty Pokemon or the Paldean Wooper water source. A small Bean farm will keep you fed while you focus on exploring and building."
+      },
+      {
+        "heading": "Building Your First Habitat",
+        "content": "Habitats attract Pokemon to live in your areas. But here is the key insight many new players miss: build complete houses, not just open habitats. A house requires 4 walls, a door, and at least 3 pieces of furniture inside. Houses contribute dramatically more to your Environment Level (max 10) than open-air structures or scattered decorations. Higher Environment Levels attract rarer Pokemon and unlock Trainer Rank upgrades. Use ZL to toggle grid-based building for precise wall placement. Even simple houses made from basic blocks count, so do not worry about fancy materials at first."
+      },
+      {
+        "heading": "First Day Priority Checklist",
+        "content": "Here is your recommended order of operations for the first few hours: 1) Complete Professor Tangrowth's tutorial to learn Water Gun, Leafage, Cut, and Rock Smash. 2) Find and help Magikarp to get Jump (R button). 3) Befriend Drilbur to get the Rototiller. 4) Plant Beans (no watering needed). 5) Build your first complete house (4 walls + door + 3 furniture). 6) Start exploring beyond Withered Wasteland. Everything else — cooking, Dream Islands, Pokemon specialties — can wait until you have these basics down."
+      }
+    ],
+    "tags": ["beginner", "overview", "first-day", "tangrowth", "withered-wasteland", "abilities"]
+  },
+  {
+    "id": "guide-002",
+    "title": "Farming & Gathering Mastery",
+    "type": "farming",
+    "summary": "Master crop farming, learn which Pokemon specialties boost your yields, and set up fully automated gathering systems using Litter and Gather Pokemon with Community Boxes.",
+    "sections": [
+      {
+        "heading": "Getting Started with Crops",
+        "content": "Farming begins once you have the Rototiller from Drilbur. Till soil, plant seeds, and harvest when ready. The three main crop types are Beans, Tomatoes, and Wheat. Beans are the easiest because they grow without watering. Tomatoes and Wheat produce more valuable ingredients but require regular watering — either manually with Water Gun or automatically via Water-specialty Pokemon. Start with a small Bean farm for reliable food, then expand to Tomatoes and Wheat once you have a water solution."
+      },
+      {
+        "heading": "Berry Farming",
+        "content": "In addition to the main crops, you can grow various Berry types that are used in cooking recipes and as gifts for Pokemon. Berry bushes take longer to grow but produce multiple harvests once mature. Plant them near Grow-specialty Pokemon for faster growth. Berries are key ingredients in many of the 24 cooking recipes, so having a steady supply saves a lot of foraging time."
+      },
+      {
+        "heading": "Grow and Water Specialty Pokemon",
+        "content": "Pokemon with the Grow specialty (like the Bulbasaur line) speed up crop growth when their habitat is near your farm plots. The speed bonus is significant and stacks with proper watering. Water-specialty Pokemon can help keep your Tomatoes and Wheat watered automatically. The ultimate farming setup combines Grow Pokemon near your plots with a water source. For the best water solution, head to Bleak Beach and place 4 bushes near the brown waterfall to unlock Paldean Wooper, who acts as an infinite water source."
+      },
+      {
+        "heading": "Litter Pokemon Passive Farming",
+        "content": "Some Pokemon have a Litter specialty, meaning they passively drop items in their habitat over time without any player input. This is essentially free resources on autopilot. Key Litter Pokemon to know: Combee drops Honey, Mareep drops Fluff, and Haxorus drops Small Logs. There are many more — check each Pokemon's specialty in the Pokedex. Build dedicated habitats for your best Litter Pokemon in a centralized area near your crafting stations."
+      },
+      {
+        "heading": "Automation with Community Boxes and Gather Pokemon",
+        "content": "The ultimate farming automation loop uses three components: Litter Pokemon (drop items passively), Gather Pokemon (collect loose items and deposit them), and Community Boxes (storage containers that Gather Pokemon deposit into). Place Litter and Gather Pokemon in the same habitat area with a Community Box nearby. Litter Pokemon will drop resources, Gather Pokemon will pick them up and store them in the Community Box, and you just come by periodically to collect your free materials. This system is incredibly powerful once you have multiple Litter-Gather pairs running."
+      },
+      {
+        "heading": "Harvesting Efficiently",
+        "content": "Once your farm is large, harvesting by hand is slow. The key upgrade is cooking Bread and keeping it in your inventory, which upgrades your Cut ability. At higher levels, a single Cut swing harvests a 2x4 area (8 crop tiles at once). After cutting, hold Y to vacuum-inhale all the dropped items. With upgraded Cut and the vacuum, you can clear a massive farm in seconds. Always carry Bread when heading to the farm."
+      }
+    ],
+    "tags": ["farming", "gathering", "crops", "automation", "pokemon-specialty", "community-box"]
+  },
+  {
+    "id": "guide-003",
+    "title": "Crafting & Cooking Guide",
+    "type": "crafting",
+    "summary": "Master the 600+ crafting recipes, unlock the cooking system through Chef Dente, learn how food upgrades your abilities, and use the 3D Printer for on-demand item creation.",
+    "sections": [
+      {
+        "heading": "Crafting Basics and the Workbench",
+        "content": "Crafting in Pokopia happens primarily at the Workbench, where you can create tools, building materials, furniture, and more from the game's 600+ recipes. The single most important crafting tip is this: place Storage Boxes directly touching (adjacent to) your Workbench. When a Storage Box is touching the Workbench, the Workbench can pull crafting materials directly from that box. No more shuffling items in and out of your inventory. Surround your main Workbench with Storage Boxes organized by material type and you can craft anything without leaving the station."
+      },
+      {
+        "heading": "Unlocking Cooking with Chef Dente",
+        "content": "The cooking system is unlocked by finding Chef Dente, a Greedent NPC hiding inside a barrel at Rocky Ridges. Help Chef Dente and you will gain access to the full cooking system: 24 recipes across 4 categories and 5 flavor profiles. The 4 recipe categories are Salads, Soups, Bread, and Hamburger Steaks. Each category also has flavor variations. Cooking is not optional — it is one of the most important systems in the game because of how food interacts with your abilities."
+      },
+      {
+        "heading": "How Food Upgrades Your Abilities",
+        "content": "This is the most important cooking mechanic: keeping cooked dishes in your inventory upgrades your core abilities. Salads in your inventory upgrade Leafage, making plant interactions more powerful. Soups upgrade Water Gun for stronger water abilities. Bread upgrades Cut, eventually letting you harvest 8 crop tiles in a single swing. Hamburger Steaks upgrade Rock Smash for faster rock breaking. Always carry at least one of each dish type to keep all four abilities powered up. The difference between base abilities and fully upgraded ones is enormous."
+      },
+      {
+        "heading": "The 3D Printer at Pokemon Centers",
+        "content": "Pokemon Centers contain 3D Printers that let you create items on demand from photos in your collection. If you have photographed an item, furniture piece, or object during your adventures, you can reproduce it at the 3D Printer without needing the original crafting materials. This is incredibly useful for duplicating rare furniture for decorating, creating backup tools, or getting items from areas you have already cleared. Take photos of everything interesting you find — your photo library becomes a free crafting catalog."
+      },
+      {
+        "heading": "Processing Chains and Advanced Crafting",
+        "content": "Many of the best items require multi-step processing chains. Raw materials get processed into intermediate components, which then combine into finished products. For example, raw crops become ingredients through processing, ingredients become dishes through cooking, and those dishes power up your abilities. Similarly, raw ores become ingots, ingots become components, and components become tools or building parts. Set up your crafting area with Workbenches, Storage Boxes, and processing stations all in proximity so you can move through chains efficiently."
+      },
+      {
+        "heading": "Trading Relics with Gimmighoul",
+        "content": "Gimmighoul is a special Pokemon that appears in various locations and trades relics for rare items and materials you cannot get any other way. Relics are found in ruins, underground areas, and sometimes from Dream Islands. Never sell or discard relics — they are worth far more through Gimmighoul trades than their sell price. Some exclusive furniture pieces, crafting materials, and unique items come only from Gimmighoul. Keep your eyes open for the little treasure chest Pokemon as you explore."
+      }
+    ],
+    "tags": ["crafting", "cooking", "recipes", "abilities", "chef-dente", "3d-printer", "workbench"]
+  },
+  {
+    "id": "guide-004",
+    "title": "Building & Environment Mastery",
+    "type": "building",
+    "summary": "Understand the Environment Level system, build houses that count, climb Trainer Ranks, and learn advanced building techniques like underground generators and speed construction.",
+    "sections": [
+      {
+        "heading": "Understanding Environment Level",
+        "content": "Environment Level is the core progression system in Pokopia. Each area has an Environment Level from 0 to 10 that represents how developed and livable you have made it. Higher Environment Levels attract rarer Pokemon to the area and unlock new Trainer Rank milestones. The single biggest factor in Environment Level is complete structures — specifically houses. Random decorations and open habitats contribute very little compared to proper buildings. If you want to attract great Pokemon, focus your building efforts on complete, furnished houses."
+      },
+      {
+        "heading": "House Requirements: The 4+1+3 Rule",
+        "content": "A structure counts as a house when it has 4 walls (fully enclosed), a door (for entry), and at least 3 pieces of furniture inside. This is the 4+1+3 rule and it is the most important building concept in the game. Each completed house gives a major Environment Level boost. The walls can be any material, the door just needs to be a functional door object, and the furniture can be any 3 placeable items (beds, tables, chairs, lamps, shelves, etc.). Even simple houses made of basic blocks count just as much as elaborate ones for Environment Level purposes."
+      },
+      {
+        "heading": "Trainer Rank Progression",
+        "content": "As your Environment Level increases across your areas, you unlock Trainer Rank milestones: Great, Ultra, and Master. Each rank unlocks new capabilities, Pokemon species that will visit, and crafting recipes. Great Rank opens up mid-tier Pokemon attractions. Ultra Rank gives access to advanced building materials and recipes. Master Rank is the endgame tier that attracts the rarest non-legendary Pokemon. Focus on building houses across multiple areas rather than maxing out one area to climb ranks efficiently."
+      },
+      {
+        "heading": "Grid Building and Precision",
+        "content": "Hold ZL while in building mode to activate grid-based placement. This snaps blocks and objects to an invisible grid, ensuring walls align perfectly, floors tile evenly, and rooms are properly enclosed. Grid mode is essential for building houses that the game recognizes as complete structures. Without it, you might have tiny gaps in walls that prevent a structure from counting as a house. Always use grid mode for structural building. Free placement (without ZL) is fine for decorative items and outdoor landscaping."
+      },
+      {
+        "heading": "Underground Power Systems",
+        "content": "Generators power advanced crafting stations, lighting, and other electrical items, but they are large and unattractive. A technique that experienced builders use is placing generators underground. Dig below the surface, create a small room, place your generators inside, and cover it back up. The generators still power everything above them, but your base stays clean and aesthetically pleasing. This is especially useful for builders who care about the visual design of their areas."
+      },
+      {
+        "heading": "Rebuilding Pokemon Centers",
+        "content": "As you explore post-apocalyptic Kanto, you will find ruined Pokemon Centers that can be rebuilt. Restored Pokemon Centers provide access to the 3D Printer, healing facilities, and serve as fast-travel points. Rebuilding them requires significant materials but is worth the investment. Each restored Pokemon Center also boosts the Environment Level of its surrounding area. Prioritize rebuilding Centers in areas where you plan to attract Pokemon."
+      },
+      {
+        "heading": "Speed Construction Technique",
+        "content": "Large building projects can take a very long time with the default setup. To speed up construction dramatically, use this technique: place an Oversized Dumping Ground loaded with building materials, then move your builder Pokemon to nearby Community Boxes. The builders will pull materials from both the Dumping Ground and Community Boxes at a much faster rate, reducing construction time to roughly 1 hour even for large and complex builds. This is the go-to method for any serious builder and saves hours of waiting."
+      },
+      {
+        "heading": "Post-Game Building with Magnet Rise",
+        "content": "After completing the main story, you unlock Magnet Rise — an ability that lets you fly freely and place blocks in a 3x3 pattern (9 blocks at once). This completely transforms the building experience. You can reach any height effortlessly, build massive structures quickly, and access terrain that was previously difficult to work with. It is the ultimate builder's tool and a fantastic reward for finishing the story. If you love building, the post-game is where Pokopia truly opens up."
+      }
+    ],
+    "tags": ["building", "environment-level", "houses", "trainer-rank", "construction", "generators", "magnet-rise"]
+  },
+  {
+    "id": "guide-005",
+    "title": "Dream Islands & Legendaries",
+    "type": "exploration",
+    "summary": "Everything about Dream Islands via Drifloon dolls, farming Stardust, and finding every legendary Pokemon including the birds, beasts, Ho-Oh, Lugia, Mew, and Mewtwo.",
+    "sections": [
+      {
+        "heading": "Dream Islands Overview",
+        "content": "Dream Islands are special areas accessed by interacting with Drifloon dolls found throughout the world. They are randomized islands filled with unique resources, rare materials, and — most critically — Stardust, which can only be obtained from Dream Islands. There are 7 different Drifloon doll types scattered across Pokopia, and they send you to one of 5 island types. Each island type has its own material pool, terrain, and resources. Make visiting Dream Islands part of your daily routine because Stardust is needed for many late-game crafting recipes."
+      },
+      {
+        "heading": "The 7 Doll Types and 5 Island Types",
+        "content": "The 7 Drifloon doll types are scattered in different areas of the world, and each connects to the Dream Island system. The 5 island types you can visit are Forest Islands (wood, plant materials), Mountain Islands (ores, stone, crystals), Beach Islands (shells, sand, coral), Meadow Islands (flowers, herbs, seeds), and Ruin Islands (relics, ancient materials, rare finds). Each island type has exclusive materials that cannot be found in the main world. Explore all doll types to access the full range of islands and resources."
+      },
+      {
+        "heading": "Stardust Farming",
+        "content": "Stardust is the rarest and most important resource that only comes from Dream Islands. It appears as sparkling nodes on island surfaces and can be collected with basic interactions. You will need significant amounts of Stardust for late-game crafting, high-tier building materials, and certain legendary Pokemon quests. Visit Dream Islands every day and prioritize collecting all Stardust nodes before gathering other materials. Even a quick daily visit adds up over time, and running out of Stardust late in the game is a painful bottleneck."
+      },
+      {
+        "heading": "Legendary Beast Locations",
+        "content": "The legendary beasts — Raikou, Entei, and Suicune — roam specific regions of post-apocalyptic Kanto. Unlike regular Pokemon that come to your habitats, legendaries must be found in the wild and befriended through special conditions. Each beast has environmental requirements that must be met in their territory before they will interact with you. Look for signs of their presence (scorched ground for Entei, frozen patches for Suicune, static electricity for Raikou) and build up the Environment Level in those areas to attract their attention."
+      },
+      {
+        "heading": "Ho-Oh and Lugia",
+        "content": "Ho-Oh and Lugia are the pinnacle legendary Pokemon in Pokopia, and reaching them requires significant progression. Ho-Oh requires you to have befriended all three legendary beasts (Raikou, Entei, Suicune) and achieved a high Trainer Rank. Lugia has its own set of requirements involving ocean-related exploration and specific Environment Level thresholds. Both legendaries appear in dramatic story sequences once their conditions are met. These are late-game goals that represent mastery of Pokopia's systems."
+      },
+      {
+        "heading": "The Mew Quest: 27 Mysterious Slates",
+        "content": "Mew is one of the most sought-after Pokemon in Pokopia, and reaching it requires collecting all 27 Mysterious Slates hidden throughout the world. These slates are scattered across every region — in ruins, behind puzzles, in hard-to-reach areas, and some are rewards from completing specific side quests. Each slate you collect adds a piece to a larger puzzle. Once all 27 are gathered, a special event triggers that leads you to Mew. This is a comprehensive scavenger hunt that rewards thorough exploration of every corner of Kanto."
+      },
+      {
+        "heading": "Finding Mewtwo",
+        "content": "Mewtwo is a post-game legendary found in the deepest parts of Pokopia's ruins — fitting for the post-apocalyptic Kanto setting. Accessing Mewtwo requires completing the main story and meeting additional hidden conditions related to your progress in rebuilding the world. Mewtwo's location ties into the game's narrative about Kanto's fall and recovery. Without spoiling the details, explore the areas that the story hints were central to the apocalypse, and bring your best-built Environment Levels with you."
+      },
+      {
+        "heading": "Legendary Bird Feathers",
+        "content": "Articuno, Zapdos, and Moltres periodically fly overhead in certain areas. Listen carefully for bird cries and wing sounds — when you hear them, look up. The legendary birds drop rare feathers as they pass. These feathers are used in special crafting recipes and are easy to miss if you are not paying attention. The birds appear more frequently in open areas with high Environment Levels. Keep your volume up and always check the sky when you hear those distinctive calls."
+      }
+    ],
+    "tags": ["dream-islands", "legendaries", "stardust", "mew", "mewtwo", "ho-oh", "lugia", "mysterious-slates", "drifloon"]
+  }
+]

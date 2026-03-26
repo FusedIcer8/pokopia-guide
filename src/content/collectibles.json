@@ -1,0 +1,322 @@
+[
+  {
+    "id": "col-001",
+    "name": "Miracle Seed",
+    "category": "small-relic",
+    "description": "A seed imbued with life energy. It once powered the growth of plants across Kanto.",
+    "location": "Withered Wasteland",
+    "hint": "Look for glowing ground spots in the grassy areas near the Pokemon Center. Professor Tangrowth can appraise it.",
+    "spoiler": "Found in a glowing dig spot southwest of the rebuilt Pokemon Center in the Withered Wasteland. Interact with the sparkling ground to unearth it. Bring it to Professor Tangrowth for appraisal to unlock its full description and value.",
+    "icon": "🌱"
+  },
+  {
+    "id": "col-002",
+    "name": "Hard Stone",
+    "category": "small-relic",
+    "description": "An extraordinarily durable stone, polished smooth by ages of erosion.",
+    "location": "Rocky Ridges",
+    "hint": "Check glowing spots inside the mines. It tends to appear in the deeper tunnels.",
+    "spoiler": "Found in a glowing dig spot in the mid-level mine tunnels of Rocky Ridges. Use Strength to push boulders out of the way to reach the area where it spawns. Appraise with Professor Tangrowth.",
+    "icon": "🪨"
+  },
+  {
+    "id": "col-003",
+    "name": "Metal Coat",
+    "category": "small-relic",
+    "description": "A glossy metallic film that once helped Steel-type Pokemon evolve. Now a prized collectible.",
+    "location": "Rocky Ridges",
+    "hint": "Deep in the mines near Pokemetal deposits. Watch for a glowing spot near metallic ore veins.",
+    "spoiler": "Found in the deepest mine tunnel in Rocky Ridges, near the area where Rare Pokemetal drops more frequently. Look for the glowing dig spot near the large Pokemetal vein cluster. Appraise with Professor Tangrowth.",
+    "icon": "🛡️"
+  },
+  {
+    "id": "col-004",
+    "name": "Black Glasses",
+    "category": "small-relic",
+    "description": "Stylish dark-tinted glasses that once boosted Dark-type moves. A fashionable relic of the old world.",
+    "location": "Bleak Beach",
+    "hint": "Found in the dark, shadowy area where Zorua hangs out. Check glowing ground spots nearby.",
+    "spoiler": "In the shadowy grove on the west side of Bleak Beach where you first meet Zorua. After learning Camouflage, return to explore the darker corners — a glowing dig spot contains the Black Glasses. Appraise with Professor Tangrowth.",
+    "icon": "🕶️"
+  },
+  {
+    "id": "col-005",
+    "name": "Life Orb",
+    "category": "small-relic",
+    "description": "A mysterious orb that pulses with faint energy. It once amplified a Pokemon's attacks at the cost of stamina.",
+    "location": "Sparkling Skylands",
+    "hint": "High up on one of the floating platforms. You'll need Glide to reach the platform where it's buried.",
+    "spoiler": "On an isolated floating platform in the northeast section of Sparkling Skylands. Use Waterfall to climb up, then Glide to the small platform with a single tree on it. The glowing dig spot is at the base of the tree. Appraise with Professor Tangrowth.",
+    "icon": "🔮"
+  },
+  {
+    "id": "col-006",
+    "name": "Quick Claw",
+    "category": "small-relic",
+    "description": "A sharp, lightweight claw that let Pokemon strike first in the old days of battling.",
+    "location": "Withered Wasteland",
+    "hint": "Near the area where you rescued Onix. Check the rubble for glowing spots after clearing the boulders.",
+    "spoiler": "After freeing Onix in the northeast Wasteland, return to the rubble site. A glowing dig spot appears in the cleared area where the boulders used to be. Easy to miss if you don't revisit. Appraise with Professor Tangrowth.",
+    "icon": "🦅"
+  },
+  {
+    "id": "col-007",
+    "name": "Scope Lens",
+    "category": "small-relic",
+    "description": "A precision lens that once sharpened a Pokemon's focus for critical hits.",
+    "location": "Bleak Beach",
+    "hint": "Hidden under a muk pile on the eastern shore. Clean it up with Suck Up Liquids first.",
+    "spoiler": "On the eastern coastline of Bleak Beach, there's a muk pile that looks like just another pollution spot. Use Suck Up Liquids to clear it, revealing a glowing dig spot underneath. The Scope Lens is buried here. Appraise with Professor Tangrowth.",
+    "icon": "🔭"
+  },
+  {
+    "id": "col-008",
+    "name": "King's Rock",
+    "category": "small-relic",
+    "description": "A crown-shaped stone that once made opponents flinch. An artifact of Pokemon royalty.",
+    "location": "Rocky Ridges",
+    "hint": "Near the Pewter Museum, in the rocky terrain outside. Look for glowing spots after rebuilding the museum.",
+    "spoiler": "A glowing dig spot appears outside the Pewter Museum's east entrance after you've rebuilt the museum. It's partially hidden behind a decorative rock. Appraise with Professor Tangrowth.",
+    "icon": "👑"
+  },
+  {
+    "id": "col-009",
+    "name": "Charcoal",
+    "category": "small-relic",
+    "description": "A chunk of high-quality charcoal that once boosted Fire-type moves. Still warm to the touch.",
+    "location": "Withered Wasteland",
+    "hint": "Near the hot springs area in the southern Wasteland. Glowing spots appear near volcanic vents.",
+    "spoiler": "In the southern section of the Withered Wasteland near the volcanic hot springs. A glowing dig spot is between two steam vents. Watch for the ground sparkle — it's easy to confuse with the steam effect. Appraise with Professor Tangrowth.",
+    "icon": "�ite"
+  },
+  {
+    "id": "col-010",
+    "name": "Mystic Water",
+    "category": "small-relic",
+    "description": "A vial of eternally pure water that once enhanced Water-type attacks.",
+    "location": "Bleak Beach",
+    "hint": "Offshore on a small island. You need Surf to reach it. Look for the glowing spot on the sandy shore.",
+    "spoiler": "Surf to the small island east of the main Bleak Beach harbor. There's a glowing dig spot on the island's tiny beach. It's one of the first relics you can find after learning Surf from Lapras. Appraise with Professor Tangrowth.",
+    "icon": "💧"
+  },
+  {
+    "id": "col-011",
+    "name": "Silk Scarf",
+    "category": "small-relic",
+    "description": "A beautifully woven scarf that once powered up Normal-type moves. Incredibly soft after all these years.",
+    "location": "Sparkling Skylands",
+    "hint": "On the ground level of the Skylands, near a clothesline between two buildings.",
+    "spoiler": "In the residential area of the Skylands ground level, between two partially collapsed buildings. A glowing dig spot is near what looks like an old clothesline. Appraise with Professor Tangrowth.",
+    "icon": "🧣"
+  },
+  {
+    "id": "col-012",
+    "name": "Shell Bell",
+    "category": "small-relic",
+    "description": "A bell crafted from a sea shell that once restored HP when a Pokemon landed a hit. It still chimes softly.",
+    "location": "Bleak Beach",
+    "hint": "Hidden in a tidal pool area accessible only at certain times. Surf along the coast and listen for a faint ringing.",
+    "spoiler": "On the far western coast of Bleak Beach, there's a tidal pool area behind some rocks. Surf around the rocky outcrop to reach a hidden cove with a glowing dig spot. The Shell Bell is buried in the sand. Appraise with Professor Tangrowth.",
+    "icon": "🔔"
+  },
+  {
+    "id": "col-013",
+    "name": "Pikachu Sofa",
+    "category": "large-relic",
+    "description": "An adorable sofa shaped like a sleeping Pikachu. A beloved piece of pre-apocalypse furniture, still remarkably comfy.",
+    "location": "Withered Wasteland",
+    "hint": "Found in a large glowing ground spot near the residential ruins. These big relics need more digging.",
+    "spoiler": "In the northern residential area of the Withered Wasteland, there's a large glowing ground spot (bigger and brighter than small relic spots). Interact with it to unearth the Pikachu Sofa. It can be placed as furniture in any house you build — and it counts toward the 3-furniture minimum for Environment Level.",
+    "icon": "⚡"
+  },
+  {
+    "id": "col-014",
+    "name": "Avalugg Table",
+    "category": "large-relic",
+    "description": "A flat, ice-blue table shaped like an Avalugg. Cold to the touch but never melts. Perfect for serving chilled berries.",
+    "location": "Sparkling Skylands",
+    "hint": "On one of the colder upper platforms. Look for large glowing spots near ice crystal formations.",
+    "spoiler": "On the same frozen floating platform where Articuno nests in the Skylands. After completing (or before) the Articuno quest, check the platform for a large glowing dig spot near the ice formations. The Avalugg Table is a furniture piece that can be placed in houses.",
+    "icon": "🧊"
+  },
+  {
+    "id": "col-015",
+    "name": "Arcade Machine",
+    "category": "large-relic",
+    "description": "A retro arcade cabinet from the Celadon Game Corner. The screen still flickers occasionally.",
+    "location": "Sparkling Skylands",
+    "hint": "In the ruins of what was once a game corner. Large glowing spot in the entertainment district.",
+    "spoiler": "In the ground-level entertainment district of Sparkling Skylands (the Celadon City ruins), look for a large glowing dig spot inside a collapsed building with faded neon signs. The Arcade Machine is a decorative furniture item and a fun nod to the original Celadon Game Corner.",
+    "icon": "🕹️"
+  },
+  {
+    "id": "col-016",
+    "name": "Slowpoke Rug",
+    "category": "large-relic",
+    "description": "A plush pink rug with a Slowpoke pattern. Stepping on it makes you want to take a nap.",
+    "location": "Bleak Beach",
+    "hint": "Buried under sand near the harbor. Large glowing spot on the beach near the rebuilt docks.",
+    "spoiler": "On the beach near the rebuilt harbor facility at Bleak Beach. After rebuilding the harbor, a large glowing dig spot appears in the sand nearby. The Slowpoke Rug is a furniture item that adds comfort to any house.",
+    "icon": "🩷"
+  },
+  {
+    "id": "col-017",
+    "name": "Town Map",
+    "category": "large-relic",
+    "description": "A framed map of the Kanto region from before the apocalypse. Shows all the cities and routes in their former glory.",
+    "location": "Withered Wasteland",
+    "hint": "In the ruins near where Professor Tangrowth first set up. Large glowing spot in the old town center.",
+    "spoiler": "Near Professor Tangrowth's initial location in the Withered Wasteland, in what was the old Fuchsia City town center. A large glowing dig spot is partially hidden by overgrown vegetation — use Leafage to clear the plants, then dig. The Town Map is a wall decoration for houses.",
+    "icon": "🗺️"
+  },
+  {
+    "id": "col-018",
+    "name": "Snorlax Bean Bag",
+    "category": "large-relic",
+    "description": "An enormous bean bag chair shaped like a curled-up Snorlax. Big enough for any Pokemon to lounge on.",
+    "location": "Bleak Beach",
+    "hint": "Near where Mosslax was sleeping. The large glowing spot appears after Mosslax moves.",
+    "spoiler": "In the exact spot where Mosslax was blocking the path at Bleak Beach. After awakening Mosslax and it moves away, return to find a large glowing dig spot where it was sleeping. The Snorlax Bean Bag is one of the best furniture items — it gives bonus Environment Level when placed in a house.",
+    "icon": "😴"
+  },
+  {
+    "id": "col-019",
+    "name": "Electrode Lamp",
+    "category": "large-relic",
+    "description": "A round lamp designed to look like an Electrode. Still sparks with electricity. Lights up any room instantly.",
+    "location": "Rocky Ridges",
+    "hint": "Deep in the mines, in an area with old electrical equipment. Large glowing spot near rusted generators.",
+    "spoiler": "In the deepest section of the Rocky Ridges mines, near an area with old pre-apocalypse electrical infrastructure (rusted generators and cable runs). A large glowing dig spot is between two collapsed generator units. The Electrode Lamp provides light when placed in houses and counts as both furniture and a light source for Environment Level.",
+    "icon": "💡"
+  },
+  {
+    "id": "col-020",
+    "name": "Eevee Doll",
+    "category": "doll",
+    "description": "A fluffy plush Eevee with big sparkling eyes. Unlocks the Wasteland Dream Island when placed on a Drifloon pedestal.",
+    "location": "Wasteland Dream Island",
+    "hint": "Found on the Wasteland Dream Island. Look for it on a pedestal or prominent location on the island.",
+    "spoiler": "Access the Wasteland Dream Island via the Drifloon doll pedestal in the Withered Wasteland. The Eevee Doll is found on the Dream Island itself, sitting on a small hill near the center. Collecting it and returning allows you to revisit this Dream Island anytime. Dream Islands are the only source of Stardust.",
+    "icon": "🧸"
+  },
+  {
+    "id": "col-021",
+    "name": "Pikachu Doll",
+    "category": "doll",
+    "description": "A classic Pikachu plushie with rosy cheeks. Unlocks the Ocean Dream Island.",
+    "location": "Ocean Dream Island",
+    "hint": "Found on the Ocean Dream Island, accessed from Bleak Beach. Surf around the island shores to find it.",
+    "spoiler": "Access the Ocean Dream Island via the Drifloon doll pedestal at Bleak Beach (near the harbor). The Pikachu Doll is on a sandy spit on the far side of the Dream Island. You need Surf to reach it. This island is a great source of Silver Feathers and Stardust.",
+    "icon": "⚡"
+  },
+  {
+    "id": "col-022",
+    "name": "Clefairy Doll",
+    "category": "doll",
+    "description": "A pink Clefairy plushie that seems to glow faintly under moonlight. Unlocks the Rock Peak Dream Island.",
+    "location": "Rock Peak Dream Island",
+    "hint": "Found on the Rock Peak Dream Island, accessed from Rocky Ridges. Climb to the peak of the island.",
+    "spoiler": "Access the Rock Peak Dream Island via the Drifloon doll pedestal in Rocky Ridges (near the mine entrance). The Clefairy Doll is at the very top of the island's peak — use Strength and Jump to navigate the rocky path up. This island has rare minerals and Mysterious Slates.",
+    "icon": "🌙"
+  },
+  {
+    "id": "col-023",
+    "name": "Arcanine Doll",
+    "category": "doll",
+    "description": "A majestic Arcanine plushie with a fluffy mane. Unlocks the Volcanic Dream Island.",
+    "location": "Volcanic Dream Island",
+    "hint": "Found on the Volcanic Dream Island. Be careful of hot terrain — look near lava-adjacent areas.",
+    "spoiler": "The Volcanic Dream Island is accessed from a hidden Drifloon pedestal in the Withered Wasteland's hot springs area. The Arcanine Doll sits on a rocky outcrop surrounded by lava flows — use Jump to hop across safe stones to reach it. This island has rare cooking ingredients and Stardust.",
+    "icon": "🔥"
+  },
+  {
+    "id": "col-024",
+    "name": "Dragonite Doll",
+    "category": "doll",
+    "description": "A chubby Dragonite plushie with tiny wings. Unlocks the Sky Dream Island.",
+    "location": "Sky Dream Island",
+    "hint": "Found on the Sky Dream Island, accessed from Sparkling Skylands. Use Glide to navigate the floating cloud platforms.",
+    "spoiler": "Access the Sky Dream Island via the Drifloon doll pedestal on one of the upper platforms of Sparkling Skylands. The Dragonite Doll is on a cloud platform at the island's highest point — Glide between platforms to reach it. This island has Sky Crystals, Rainbow Feathers, and Stardust.",
+    "icon": "🐉"
+  },
+  {
+    "id": "col-025",
+    "name": "Ditto Doll",
+    "category": "doll",
+    "description": "A squishy purple Ditto plushie with a permanent smile. The rarest doll, representing you — the hero of Pokopia.",
+    "location": "Random Dream Island",
+    "hint": "Has a chance to appear on any Dream Island you've already visited. Keep revisiting them.",
+    "spoiler": "The Ditto Doll randomly spawns on any Dream Island you've previously completed. It has roughly a 10% chance to appear each visit, always in a different spot on the island. Check every Dream Island each time you visit. It's purely a collectible but it's the most sought-after doll in the game.",
+    "icon": "🟣"
+  },
+  {
+    "id": "col-026",
+    "name": "Substitute Doll",
+    "category": "doll",
+    "description": "The classic Substitute plushie — that weird little guy from Pokemon battles. A nostalgic collectible.",
+    "location": "Random Dream Island",
+    "hint": "Like the Ditto Doll, it randomly appears on Dream Islands you've already visited.",
+    "spoiler": "The Substitute Doll randomly spawns on previously completed Dream Islands, similar to the Ditto Doll. It has its own separate spawn chance (roughly 10%), so you can find both on the same visit if you're lucky. Check behind rocks and in hidden corners — it likes to hide.",
+    "icon": "🧱"
+  },
+  {
+    "id": "col-027",
+    "name": "Mysterious Slate (Collection)",
+    "category": "slate",
+    "description": "Ancient stone tablets inscribed with mysterious symbols. 27 total are scattered across all of Pokopia. Collecting them all reveals the path to Mew.",
+    "location": "All Areas + Dream Islands",
+    "hint": "Slates are everywhere — 6 per main area and 3 on Dream Islands. Some are in plain sight, others behind puzzles. Professor Tangrowth offers regional hints.",
+    "spoiler": "The 27 Mysterious Slates are split: 6 in Withered Wasteland, 6 in Bleak Beach, 6 in Rocky Ridges, 6 in Sparkling Skylands, and 3 on Dream Islands. They appear as small stone tablets in glowing spots, behind environmental puzzles (use Camouflage, Waterfall, etc.), or as quest rewards. Place all 27 on the Mysterious Mural behind the Pewter Museum to summon Mew.",
+    "icon": "📜"
+  },
+  {
+    "id": "col-028",
+    "name": "Clear Bell",
+    "category": "legendary-item",
+    "description": "A crystalline bell that rings with a pure, resonating tone. Crafted from Rare Pokemetal and Rainbow Feathers, it summons Ho-Oh when rung from a great height.",
+    "location": "Crafted at the Skyscraper",
+    "hint": "Requires befriending all three Legendary Beasts (Raikou, Entei, Suicune) plus 5 Rare Pokemetal and 5 Rainbow Feathers.",
+    "spoiler": "After befriending Raikou (Rocky Ridges/Skylands), Entei (Withered Wasteland), and Suicune (Bleak Beach), gather 5 Rare Pokemetal from deep mines and 5 Rainbow Feathers from high-elevation spots after rainstorms. Craft at the Skyscraper top floor, then ring on the rooftop to summon Ho-Oh.",
+    "icon": "🔔"
+  },
+  {
+    "id": "col-029",
+    "name": "Tidal Bell",
+    "category": "legendary-item",
+    "description": "A bell forged from ocean-touched metal that echoes like crashing waves. Summons Lugia when rung at the water's edge.",
+    "location": "Crafted at the Skyscraper",
+    "hint": "Requires befriending all three Legendary Birds (Articuno, Zapdos, Moltres) plus 5 Rare Pokemetal and 5 Silver Feathers.",
+    "spoiler": "After befriending Articuno (Sparkling Skylands frozen platform), Zapdos (Rocky Ridges peak), and Moltres (Withered Wasteland volcanic area), gather 5 Rare Pokemetal and 5 Silver Feathers from coastal/water locations. Craft at the Skyscraper, then ring at the Bleak Beach harbor dock to summon Lugia.",
+    "icon": "🌊"
+  },
+  {
+    "id": "col-030",
+    "name": "Rainbow Feather",
+    "category": "legendary-item",
+    "description": "A shimmering feather that refracts light into all colors of the rainbow. Needed to craft the Clear Bell.",
+    "location": "All Areas — high-elevation spots after rainstorms",
+    "hint": "After any rain event, check hilltops, rooftops, cliff edges, and high Skylands platforms for a rainbow shimmer on the ground.",
+    "spoiler": "Rainbow Feathers spawn at high-elevation points across all four areas after rainstorms. Check: the hilltop near Onix's rescue site (Wasteland), the cliff overlooking the harbor (Beach), the mine entrance peak (Ridges), and multiple Skylands platforms. They despawn after a while, so collect quickly after rain. You need 5 for the Clear Bell.",
+    "icon": "🌈"
+  },
+  {
+    "id": "col-031",
+    "name": "Silver Feather",
+    "category": "legendary-item",
+    "description": "A sleek, metallic feather with a cool silver sheen. Needed to craft the Tidal Bell.",
+    "location": "Coastal areas, Dream Island shores, waterfall caves",
+    "hint": "Explore every coastline with Surf and check behind every waterfall with the Waterfall move. Silver Feathers glow with a distinct silver light.",
+    "spoiler": "Silver Feathers appear on Dream Island shorelines, hidden beach coves accessible only by Surf at Bleak Beach, inside waterfall caves in Rocky Ridges and Sparkling Skylands, and occasionally washed up near the harbor after storms. Use Surf to explore every coast inch by inch. You need 5 for the Tidal Bell.",
+    "icon": "🪶"
+  },
+  {
+    "id": "col-032",
+    "name": "Rare Pokemetal",
+    "category": "legendary-item",
+    "description": "An exceptionally pure form of Pokemetal with a brilliant luster. Essential for crafting both Legendary Bells.",
+    "location": "Rocky Ridges deep mines",
+    "hint": "Low drop rate from Pokemetal ore blocks. Mine the deepest tunnels in Rocky Ridges for the best chances. You need 10 total (5 per bell).",
+    "spoiler": "Rare Pokemetal randomly drops when you smash Pokemetal ore deposits with Rock Smash. The drop rate is low (roughly 5-10%). Focus on the deepest mine tunnels in Rocky Ridges where Pokemetal deposits are most concentrated. Deposits respawn daily. You need 10 total for both the Clear Bell and Tidal Bell, so start mining early and stockpile.",
+    "icon": "✨"
+  }
+]

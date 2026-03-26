@@ -1,0 +1,411 @@
+[
+  {
+    "id": "ch-001",
+    "chapter": 1,
+    "title": "Withered Wasteland — A New Beginning",
+    "area": "Withered Wasteland",
+    "realWorldLocation": "Fuchsia City, Kanto",
+    "summary": "You awaken as Ditto in a dried-up wasteland. Professor Tangrowth guides you through your first steps: learning moves, helping Pokemon, and restoring this parched land to life.",
+    "objectives": [
+      {
+        "task": "Meet Professor Tangrowth and learn the basics of transforming",
+        "hint": "Follow the path from where you wake up. Tangrowth is right nearby and will teach you how Ditto's copy ability works.",
+        "spoiler": "After the opening cutscene, walk forward to meet Professor Tangrowth. He explains that you are a special Ditto who can learn moves from other Pokemon by observing them. He gives you your first task: find Squirtle nearby to learn Water Gun."
+      },
+      {
+        "task": "Learn your first moves from local Pokemon",
+        "hint": "Explore the Wasteland and interact with Pokemon who have a glowing icon above their heads. Each one teaches a different move you'll need.",
+        "spoiler": "Find and learn moves from: Squirtle (Water Gun — water plants and fill pools), Bulbasaur (Leafage — cut grass and harvest), Scyther (Cut — chop trees and bamboo), Hitmonchan (Rock Smash — break rocks and boulders), Drilbur (Rototiller — till soil for farming), and Magikarp (Jump — reach higher ledges). You don't need to learn them in any specific order, but Water Gun and Rototiller are essential for farming."
+      },
+      {
+        "task": "Yawn Up A Storm — Rescue Onix and restore the rain",
+        "hint": "Onix is trapped somewhere in the Wasteland. You'll need Rock Smash to free it. Once freed, Onix's presence helps restore the natural water cycle.",
+        "spoiler": "Head to the northeast area of the Wasteland where you'll find Onix trapped under collapsed boulders. Use Rock Smash to clear the debris. After freeing Onix, a cutscene plays where rain returns to the Withered Wasteland for the first time. This unlocks water sources and allows natural plant growth to begin. Completing this quest also unlocks access to Bleak Beach."
+      },
+      {
+        "task": "Brighten Things Up — Build structures and raise the Environment Level",
+        "hint": "Build proper houses for Pokemon — they need four walls, a door, and at least three pieces of furniture inside to count. Habitats alone won't raise your Environment Level.",
+        "spoiler": "You need to raise the Withered Wasteland's Environment Level to 5. Build houses (4 walls + 1 door + 3 furniture minimum each), plant trees and flowers, and clean up debris. Each completed house gives a significant Environment Level boost. Place habitats for wild Pokemon to move in, but remember that houses count much more than habitats for the Environment Level. Farming plots with growing crops also contribute."
+      },
+      {
+        "task": "Rebuild the Pokemon Center",
+        "hint": "Gather building materials from around the Wasteland. You'll need wood from Cut, stone from Rock Smash, and other resources. Check your Important Requests list.",
+        "spoiler": "The Pokemon Center is the 'Huge Building' for this area. You need a large amount of Lumber (use Cut on trees), Stone (use Rock Smash on rocks), and Pokemetal (smash metallic ore deposits). Deliver all materials to the construction site. Once rebuilt, the Pokemon Center becomes a hub where you can rest, check your progress, and access storage. This completes the Rebuild the Huge Building quest for the Wasteland."
+      }
+    ],
+    "commonBlockers": [
+      {
+        "problem": "I can't find enough building materials",
+        "solution": "Use Pokemon with Litter and Gather specialties — they'll passively collect materials and leave them around town. Also make sure you're using the right moves: Cut for Lumber, Rock Smash for Stone. Materials respawn daily, so check back if you run low."
+      },
+      {
+        "problem": "Environment Level won't go up past 2 or 3",
+        "solution": "Building habitats alone isn't enough. You need to build proper houses with 4 walls, a door, and at least 3 pieces of furniture inside. Each completed house gives a big Environment Level boost. Also plant trees, flowers, and clean up any remaining debris piles."
+      },
+      {
+        "problem": "Crops won't grow after I plant seeds",
+        "solution": "You need to use Rototiller (learned from Drilbur) on the soil FIRST to till it, then plant seeds, then water with Water Gun. The exception is Beans, which don't need tilled soil. Make sure rain has been restored (complete Yawn Up A Storm) or water manually."
+      }
+    ],
+    "rewards": [
+      "Rain restored to the Wasteland",
+      "Pokemon Center rebuilt and functional",
+      "Access to Bleak Beach unlocked",
+      "Six core moves learned (Water Gun, Leafage, Cut, Rock Smash, Rototiller, Jump)",
+      "Farming system unlocked"
+    ],
+    "nextChapter": "ch-002"
+  },
+  {
+    "id": "ch-002",
+    "chapter": 2,
+    "title": "Bleak Beach — Lifting the Gloom",
+    "area": "Bleak Beach",
+    "realWorldLocation": "Vermilion City, Kanto",
+    "summary": "A dark, gloomy coastal area shrouded in perpetual twilight. A massive sleeping Snorlax — Mosslax — blocks progress. You'll need to restore light to the region and learn to navigate water.",
+    "objectives": [
+      {
+        "task": "Learn new moves from Bleak Beach Pokemon",
+        "hint": "The beach has Pokemon that teach water travel and stealth abilities. Look for Lapras near the shore, Zorua in the shadowy areas, and Paldean Wooper near puddles.",
+        "spoiler": "Find and learn: Surf from Lapras (travel across water surfaces), Camouflage from Zorua (blend into surroundings to sneak past obstacles and observe shy Pokemon), and Suck Up Liquids from Paldean Wooper (absorb puddles, muk, and liquid obstacles). Surf is essential for reaching offshore areas and islands. Camouflage has puzzle uses throughout the game."
+      },
+      {
+        "task": "Yawn Up A Storm — Awaken Mosslax by restoring sunlight",
+        "hint": "Mosslax is a moss-covered Snorlax that won't wake up in the dark. The region needs its light source restored before anything else can progress.",
+        "spoiler": "Mosslax is blocking a critical path and is essentially hibernating because the area is too dark. You need to clear the dark clouds and pollution causing the gloom. Find and clean up the major pollution sources around the beach using Suck Up Liquids on muk puddles and debris. Once enough pollution is cleared, sunlight breaks through, and Mosslax begins to stir. Interact with Mosslax to fully wake it, and it moves aside, opening up the rest of Bleak Beach."
+      },
+      {
+        "task": "Brighten Things Up — Clean the muk and restore the coastline",
+        "hint": "Paldean Wooper's Suck Up Liquids move is your best friend here. Look for dark puddles and polluted water sources all along the beach.",
+        "spoiler": "Use Suck Up Liquids to clean up all the muk pools scattered across Bleak Beach. There are roughly a dozen major muk deposits. Cleaning them restores the sand and water to their natural state. Combined with building and planting, this raises the Environment Level. You'll also find Lost Relics hidden under some muk piles, so clean everywhere."
+      },
+      {
+        "task": "Time To Party — Host a beach celebration for the Pokemon",
+        "hint": "Once the beach is clean and bright, the local Pokemon want to celebrate. You'll need to set up a party area with decorations and food.",
+        "spoiler": "Build a party area near the beach with at least 5 decorative items (lanterns, banners, etc.) and prepare food using any ingredients you've gathered. Talk to the Pokemon around town who have request icons — they'll each ask for something specific for the party. Completing all their requests triggers the celebration cutscene where Pokemon from across the beach gather."
+      },
+      {
+        "task": "Rebuild the Huge Building — Restore the harbor facility",
+        "hint": "The old harbor building needs serious work. Gather materials and deliver them to the construction site near the docks.",
+        "spoiler": "The harbor facility requires Lumber, Stone, Pokemetal, and Glass (a new material found at Bleak Beach from smashing transparent crystal deposits). This is a larger build than the Wasteland's Pokemon Center. Once complete, the harbor enables boat travel and becomes the area's main hub. You'll use it later for Dream Island access."
+      }
+    ],
+    "commonBlockers": [
+      {
+        "problem": "I can't reach the islands offshore",
+        "solution": "You need to learn Surf from Lapras first. Lapras is found along the main shoreline of Bleak Beach, usually near the calmer water on the east side. Once you learn Surf, you can travel across any water surface."
+      },
+      {
+        "problem": "Mosslax won't wake up even after I cleaned some areas",
+        "solution": "You need to clean up enough pollution to let sunlight through. Make sure you've found ALL the muk deposits — some are hidden in corners or behind rocks. Use Suck Up Liquids on every dark puddle you see. The area needs to hit a certain cleanliness threshold before Mosslax awakens."
+      },
+      {
+        "problem": "How do I get Stardust?",
+        "solution": "Stardust is only found on Dream Islands, not in the main areas. You access Dream Islands by interacting with Drifloon dolls (the balloon-like statues). Each Dream Island has different rare materials including Stardust scattered on the ground and in glowing spots."
+      }
+    ],
+    "rewards": [
+      "Surf, Camouflage, and Suck Up Liquids moves learned",
+      "Mosslax awakened and befriended",
+      "Harbor facility rebuilt — boat travel unlocked",
+      "Bleak Beach coastline restored",
+      "Access to Rocky Ridges unlocked"
+    ],
+    "nextChapter": "ch-003"
+  },
+  {
+    "id": "ch-003",
+    "chapter": 3,
+    "title": "Rocky Ridges — Into the Mountains",
+    "area": "Rocky Ridges",
+    "realWorldLocation": "Pewter City, Kanto",
+    "summary": "A rugged mountain area with mines and ancient ruins. Learn powerful physical moves, unlock the cooking system by rescuing Chef Dente, and restore the famous Pewter Museum.",
+    "objectives": [
+      {
+        "task": "Learn Strength and Rollout from mountain Pokemon",
+        "hint": "Machoke and Graveler are found in the rocky terrain. Machoke is near the mine entrance, and Graveler rolls around the cliff paths.",
+        "spoiler": "Find Machoke near the mine entrance area to learn Strength (push heavy boulders and objects that Rock Smash can't break). Find Graveler on the upper cliff paths to learn Rollout (roll into objects with great force, useful for clearing large debris fields and activating certain mechanisms). Both moves are essential for navigating the mines and mountain paths."
+      },
+      {
+        "task": "Rescue Chef Dente (Greedent) from the barrel",
+        "hint": "There's a suspicious barrel somewhere in Rocky Ridges that's making noise. You'll need to break it open with the right move.",
+        "spoiler": "Chef Dente, a Greedent, is trapped inside a large barrel in the lower mining area of Rocky Ridges. Use Rock Smash on the barrel to free him. Once rescued, Chef Dente sets up a cooking station and teaches you the cooking system. You can now combine gathered ingredients (berries, crops, foraged items) into meals that give temporary boosts and can be gifted to Pokemon to increase friendship. Cooking recipes unlock as you find new ingredients."
+      },
+      {
+        "task": "Yawn Up A Storm — Clear the mountain passes and restore airflow",
+        "hint": "The mountain winds have stopped, making the air stale and the paths dangerous with built-up dust. Something deep in the mines is blocking the natural ventilation.",
+        "spoiler": "Navigate into the mines using Strength to push boulders and Rollout to clear debris. Deep inside, you'll find collapsed tunnels blocking the natural wind passages. Clear all the major blockages to restore airflow through the mountain. This triggers a cutscene where fresh wind sweeps through Rocky Ridges, clearing dust and revealing new paths. This also improves farming conditions in the area."
+      },
+      {
+        "task": "Brighten Things Up — Restore lighting and raise Environment Level",
+        "hint": "The mines and town areas need light sources. Build lampposts and torches, and open up the blocked skylights in cave areas.",
+        "spoiler": "Craft and place light sources throughout Rocky Ridges. Inside caves, find and clear the blocked natural skylights (use Rock Smash or Strength on ceiling debris at marked spots). In town areas, build lampposts using Pokemetal. Combined with houses, gardens, and the cooking station, push the Environment Level up. The mining system provides abundant Stone and Pokemetal to fuel rapid building."
+      },
+      {
+        "task": "Rebuild the Pewter Museum",
+        "hint": "The museum is the Huge Building for Rocky Ridges. It needs special materials including fossils found in the mines.",
+        "spoiler": "The Pewter Museum requires standard building materials (Lumber, Stone, Pokemetal) plus special Fossil Fragments found exclusively in the Rocky Ridges mines. Mine extensively to collect enough fossils. The museum is the largest build so far. Once complete, you can display Lost Relics (Large) inside it, and it becomes a community gathering spot. Restoring the museum also reveals lore about what happened to Kanto."
+      }
+    ],
+    "commonBlockers": [
+      {
+        "problem": "Where is Chef Dente?",
+        "solution": "Chef Dente (a Greedent) is trapped inside a barrel in the lower mining area of Rocky Ridges. Look for a barrel that's rocking or making noise. Use Rock Smash to break it open. He's easy to miss if you don't explore the mine thoroughly."
+      },
+      {
+        "problem": "I can't find Rare Pokemetal",
+        "solution": "Rare Pokemetal has a low drop rate from Pokemetal ore blocks in the mines. Keep smashing every metallic ore deposit you find — they respawn over time. The deeper mine tunnels have a slightly better drop rate. You'll need patience; it's the rarest standard material in the game."
+      },
+      {
+        "problem": "I can't push the large boulders blocking the mine path",
+        "solution": "Regular Rock Smash won't work on the large gray boulders. You need the Strength move from Machoke. Find Machoke near the mine entrance on the surface level of Rocky Ridges. Once you learn Strength, you can push (not break) the heavy boulders to clear paths."
+      }
+    ],
+    "rewards": [
+      "Strength and Rollout moves learned",
+      "Cooking system unlocked via Chef Dente",
+      "Mining system fully accessible",
+      "Pewter Museum restored",
+      "Access to Sparkling Skylands unlocked",
+      "Fossil collection started"
+    ],
+    "nextChapter": "ch-004"
+  },
+  {
+    "id": "ch-004",
+    "chapter": 4,
+    "title": "Sparkling Skylands — Reaching New Heights",
+    "area": "Sparkling Skylands",
+    "realWorldLocation": "Celadon City, Kanto",
+    "summary": "The final main area — a breathtaking elevated cityscape with floating platforms and sky-high challenges. Learn to fly and climb waterfalls as you tackle the most complex building project yet.",
+    "objectives": [
+      {
+        "task": "Learn Glide and Waterfall from Skylands Pokemon",
+        "hint": "Dragonite soars above the highest platforms, and Gyarados lurks near the massive waterfalls cascading off the skylands.",
+        "spoiler": "Find Dragonite on the upper platforms of the Skylands (you may need to build upward to reach it) to learn Glide (soar between platforms and descend gracefully from heights). Find Gyarados at the base of the large waterfalls to learn Waterfall (climb up waterfalls to reach higher areas). Together these moves open up full vertical exploration of the Skylands and let you revisit previous areas to reach spots you couldn't before."
+      },
+      {
+        "task": "Yawn Up A Storm — Restore the sky currents",
+        "hint": "The floating platforms are unstable because the wind currents that support them have weakened. Find what's disrupting the natural updrafts.",
+        "spoiler": "The sky currents are being blocked by massive debris clusters caught between the floating platforms. Use Glide to reach them and a combination of Cut, Rock Smash, and Strength to clear each debris cluster. There are several major blockages spread across the Skylands. Clearing them all restores the powerful updrafts, stabilizing the floating platforms and creating wind tunnels you can use for fast travel between areas."
+      },
+      {
+        "task": "Brighten Things Up — Illuminate the Skylands and push Environment Level high",
+        "hint": "The Skylands need both ground-level and elevated lighting. Build on multiple vertical levels for maximum impact.",
+        "spoiler": "Build structures across multiple elevation levels. The Skylands reward vertical building — houses and decorations placed on higher platforms contribute bonus Environment Level points. Use Glide and Waterfall to access build spots on floating platforms. Crystal deposits unique to the Skylands can be crafted into luminous decorations that give extra Environment Level compared to standard items."
+      },
+      {
+        "task": "Time To Party — Host a grand sky festival",
+        "hint": "This celebration is the biggest yet, involving Pokemon from all four areas. Prepare food, decorations, and entertainment across the Skylands.",
+        "spoiler": "Set up a multi-level party spanning the Skylands platforms. You'll need cooking contributions (use Chef Dente's recipes with Skylands-exclusive berries), decorations on at least three different elevation levels, and invitations delivered to key Pokemon in all four areas. The festival cutscene is one of the most spectacular in the game, with Pokemon from every region attending."
+      },
+      {
+        "task": "Rebuild the Skyscraper — the ultimate building challenge",
+        "hint": "The Celadon skyscraper is the tallest and most complex Huge Building. It requires rare materials from all four areas and building across many floors.",
+        "spoiler": "The Skyscraper requires materials from every area: Lumber, Stone, Pokemetal, Glass, Fossil Fragments, Sky Crystals (Skylands-exclusive), and Rare Pokemetal. This is a multi-stage build — you construct it floor by floor, with each floor requiring its own material delivery. The completed skyscraper becomes the central hub for the entire game, with floors dedicated to storage, cooking, displays, and a rooftop observatory. This is the final Rebuild the Huge Building quest."
+      }
+    ],
+    "commonBlockers": [
+      {
+        "problem": "I can't reach the upper floating platforms",
+        "solution": "You need both Glide (from Dragonite) and Waterfall (from Gyarados). Glide lets you travel between platforms at the same height or descend, while Waterfall lets you climb up the water flows to reach higher elevations. Build stairs or ramps to reach Dragonite's platform if you can't find a natural path up."
+      },
+      {
+        "problem": "I don't have enough materials from previous areas",
+        "solution": "You can fast travel back to any unlocked area. Materials respawn over time, and Pokemon with Gather specialties continue collecting even when you're in a different area. Stock up on Stone from Rocky Ridges mines and Lumber from Withered Wasteland trees before tackling the Skyscraper."
+      },
+      {
+        "problem": "The Skyscraper build seems stuck at a certain floor",
+        "solution": "Each floor has specific material requirements that escalate. Check the blueprint at the construction site to see exactly what's needed for the next floor. Later floors require Rare Pokemetal and Sky Crystals — make sure you're mining those specifically. Sky Crystals are found only in the crystal caves of the Skylands."
+      }
+    ],
+    "rewards": [
+      "Glide and Waterfall moves learned",
+      "Full vertical traversal unlocked across all areas",
+      "Skyscraper rebuilt — ultimate hub building",
+      "Sky festival celebrated",
+      "All four main areas fully restored",
+      "Endgame content unlocked"
+    ],
+    "nextChapter": "ch-005"
+  },
+  {
+    "id": "ch-005",
+    "chapter": 5,
+    "title": "Team Initiation Challenge",
+    "area": "All Areas",
+    "realWorldLocation": "Across Kanto",
+    "summary": "With all four areas restored, a special challenge emerges: deliver 8 sets of materials to locations across the entire game world. This tests your mastery of every move and area.",
+    "objectives": [
+      {
+        "task": "Accept the Team Initiation Challenge",
+        "hint": "Check the notice board at any rebuilt Huge Building after completing all four main areas. The challenge appears automatically.",
+        "spoiler": "After rebuilding all four Huge Buildings, a new Important Request appears on the notice boards: the Team Initiation Challenge. You're tasked with delivering 8 specific sets of materials to marked locations across all four areas. Each delivery requires navigating environmental puzzles using your full move set."
+      },
+      {
+        "task": "Complete all 8 material deliveries",
+        "hint": "Each delivery location is in a different sub-area and requires specific moves to reach. Plan your route through all four regions efficiently.",
+        "spoiler": "The 8 deliveries are spread across all areas: 2 in Withered Wasteland, 2 in Bleak Beach, 2 in Rocky Ridges, and 2 in Sparkling Skylands. Each delivery point is in a hard-to-reach spot requiring creative move use (e.g., Surf to an island, then Waterfall up, then Glide to a platform). The materials requested vary — some need cooked items, some need building materials, some need rare finds. Gather everything before starting your delivery run to save time."
+      },
+      {
+        "task": "Return to the quest giver after all deliveries",
+        "hint": "Head back to where you accepted the challenge once all 8 are done.",
+        "spoiler": "After completing all 8 deliveries, return to the Skyscraper in Sparkling Skylands. A cutscene plays recognizing your efforts. You receive the Team Badge, which increases your Trainer Rank significantly and unlocks the ability to take on Legendary Pokemon quests."
+      }
+    ],
+    "commonBlockers": [
+      {
+        "problem": "I can't reach one of the delivery locations",
+        "solution": "Every delivery location requires a combination of moves. If you're stuck, think about which moves you haven't tried. Some spots need unusual combinations like Rototiller to reveal a hidden path, then Camouflage to pass a skittish Pokemon guard, then Surf to reach the final platform."
+      },
+      {
+        "problem": "I don't have the right materials for a delivery",
+        "solution": "Check the delivery requirements in your Important Requests menu. Some deliveries need cooked dishes (use Chef Dente's station), some need crafted items, and some need raw materials. Dream Islands are a good source for rare ingredients if you're short."
+      }
+    ],
+    "rewards": [
+      "Team Badge earned",
+      "Trainer Rank increased significantly",
+      "Legendary Pokemon quests unlocked",
+      "Mew quest becomes available",
+      "All areas receive a bonus Environment Level boost"
+    ],
+    "nextChapter": "ch-006"
+  },
+  {
+    "id": "ch-006",
+    "chapter": 6,
+    "title": "The Mysterious Slates — Mew's Trail",
+    "area": "All Areas",
+    "realWorldLocation": "Across Kanto",
+    "summary": "27 Mysterious Slates are hidden throughout the world. Collecting them all and placing them on the Mysterious Mural reveals the path to Mew — the mythical Pokemon at the heart of Pokopia's story.",
+    "objectives": [
+      {
+        "task": "Begin collecting the 27 Mysterious Slates",
+        "hint": "Slates are hidden in every area including Dream Islands. Some are in plain sight, others require puzzle-solving. Professor Tangrowth can give you general region hints.",
+        "spoiler": "The 27 Mysterious Slates are distributed roughly evenly: 6 in Withered Wasteland, 6 in Bleak Beach, 6 in Rocky Ridges, 6 in Sparkling Skylands, and 3 on Dream Islands. They appear as small stone tablets with ancient writing. Some are found in glowing ground spots, some behind environmental puzzles, some as rewards for completing side quests, and some in hidden areas only reachable with late-game moves."
+      },
+      {
+        "task": "Find the Mysterious Mural",
+        "hint": "The Mural is in a hidden location that only appears after you've collected a significant number of Slates. Look for ancient stonework in an unexpected place.",
+        "spoiler": "The Mysterious Mural is located in a hidden cave behind the Pewter Museum in Rocky Ridges. It becomes accessible after collecting at least 15 Slates — the museum curator Pokemon will mention hearing strange sounds from the back wall. Use Rock Smash on the cracked wall behind the fossil display to reveal the cave entrance."
+      },
+      {
+        "task": "Place all 27 Slates on the Mysterious Mural to summon Mew",
+        "hint": "Each Slate fits into a specific slot on the Mural. They go in automatically when you interact with the Mural while holding Slates.",
+        "spoiler": "Interact with the Mysterious Mural with all 27 Slates in your inventory. A lengthy cutscene plays where the Mural illuminates and Mew appears. Mew reveals the history of what happened to Kanto and why the world fell into its post-apocalyptic state. Mew joins your Pokopia and can be found wandering happily in any area. Mew's presence adds a permanent Environment Level bonus to all areas."
+      }
+    ],
+    "commonBlockers": [
+      {
+        "problem": "I'm stuck at 24-26 Slates and can't find the rest",
+        "solution": "The last few Slates are usually on Dream Islands (check all five themed islands: Wasteland, Ocean, Rock Peak, Volcanic, and Sky) or in areas that require Camouflage to access. Also check behind waterfalls using the Waterfall move — several Slates are hidden in waterfall caves across all areas."
+      },
+      {
+        "problem": "I can't find the Mysterious Mural",
+        "solution": "You need at least 15 Slates before the Mural location reveals itself. Once you have enough, visit the Pewter Museum in Rocky Ridges and talk to the Pokemon near the fossil display. They'll mention strange sounds. Use Rock Smash on the cracked back wall to find the hidden cave."
+      }
+    ],
+    "rewards": [
+      "Mew befriended and added to Pokopia",
+      "Full lore of Kanto's history revealed",
+      "Permanent Environment Level bonus in all areas",
+      "Mysterious Mural completion achievement"
+    ],
+    "nextChapter": "ch-007"
+  },
+  {
+    "id": "ch-007",
+    "chapter": 7,
+    "title": "Ho-Oh — The Rainbow Phoenix",
+    "area": "All Areas",
+    "realWorldLocation": "Across Kanto",
+    "summary": "To summon Ho-Oh, you must first befriend the three Legendary Beasts — Raikou, Entei, and Suicune — then craft the Clear Bell from rare materials.",
+    "objectives": [
+      {
+        "task": "Find and befriend Raikou, Entei, and Suicune",
+        "hint": "The three Legendary Beasts roam across different areas. Each one has a quest chain that starts with spotting them in the wild. They're fast and skittish — Camouflage helps.",
+        "spoiler": "Raikou roams Rocky Ridges and Sparkling Skylands — use Camouflage to approach without scaring it, then complete its challenge (restore a lightning-struck area). Entei appears in Withered Wasteland near volcanic hot spots — complete its challenge (build a special fire-resistant habitat). Suicune runs along the waterways of Bleak Beach — use Surf to keep up and complete its challenge (purify a final polluted water source). Each beast settles in your Pokopia after its quest."
+      },
+      {
+        "task": "Gather materials for the Clear Bell: 5 Rare Pokemetal + 5 Rainbow Feathers",
+        "hint": "Rare Pokemetal comes from mining in Rocky Ridges. Rainbow Feathers appear in special locations after rainstorms — look for shimmering spots on high ground.",
+        "spoiler": "Rare Pokemetal drops occasionally from Pokemetal ore blocks — focus on deep mines in Rocky Ridges for the best drop rate. You need 5 total. Rainbow Feathers appear in specific spots across all four areas after rainstorms — look for shimmering rainbow glows on the ground near high points (hilltops, cliff edges, tower roofs). There are more than 5 available in the world, so you don't need to find every single one."
+      },
+      {
+        "task": "Craft the Clear Bell and summon Ho-Oh",
+        "hint": "Bring the materials to the crafting station in the Skyscraper. The Clear Bell recipe appears once you have all three Beasts and the required materials.",
+        "spoiler": "With all three Legendary Beasts befriended and 5 Rare Pokemetal + 5 Rainbow Feathers in your inventory, go to the top floor of the Skyscraper in Sparkling Skylands. The Clear Bell crafting option appears. Craft it, then ring the Clear Bell on the Skyscraper rooftop. Ho-Oh descends in a spectacular cutscene, rainbow trailing behind it. Ho-Oh joins your Pokopia and perches on the highest point of whatever area you're in."
+      }
+    ],
+    "commonBlockers": [
+      {
+        "problem": "I can't find enough Rare Pokemetal",
+        "solution": "Rare Pokemetal has a low drop rate from Pokemetal ore blocks. Focus your mining in the deep tunnels of Rocky Ridges where Pokemetal deposits are more common. They respawn over time, so revisit regularly. Having Pokemon with mining-related specialties in the area can also help produce Pokemetal passively."
+      },
+      {
+        "problem": "Raikou keeps running away before I can interact",
+        "solution": "Use Camouflage (learned from Zorua at Bleak Beach) to become invisible before approaching Raikou. Move slowly and approach from downwind (the direction the grass blows). You'll get a prompt to interact once you're close enough while camouflaged."
+      },
+      {
+        "problem": "I can't find Rainbow Feathers",
+        "solution": "Rainbow Feathers only appear after rainstorms, and they spawn at high-elevation spots: hilltops, rooftops of rebuilt buildings, cliff edges, and the upper Skylands platforms. After any rain event, immediately check elevated locations across all four areas. They shimmer with a rainbow glow and are hard to miss once you're at the right altitude."
+      }
+    ],
+    "rewards": [
+      "Raikou, Entei, and Suicune befriended",
+      "Clear Bell crafted",
+      "Ho-Oh summoned and joins Pokopia",
+      "Rainbow weather effect unlocked in all areas"
+    ],
+    "nextChapter": "ch-008"
+  },
+  {
+    "id": "ch-008",
+    "chapter": 8,
+    "title": "Lugia — The Guardian of the Seas",
+    "area": "All Areas",
+    "realWorldLocation": "Across Kanto",
+    "summary": "To summon Lugia, you must first befriend the three Legendary Birds — Articuno, Zapdos, and Moltres — then craft the Tidal Bell from rare ocean materials.",
+    "objectives": [
+      {
+        "task": "Find and befriend Articuno, Zapdos, and Moltres",
+        "hint": "Each Legendary Bird inhabits a specific area matching its element. Look for them in the most extreme environments of each region.",
+        "spoiler": "Articuno nests in the highest, coldest area of Sparkling Skylands — use Glide to reach a frozen floating platform, then complete its challenge (build an ice-themed habitat using Skylands crystals). Zapdos roosts atop the tallest peak in Rocky Ridges — use Waterfall then Glide to reach the summit, complete its challenge (restore power to ancient lightning rods). Moltres perches near volcanic vents in Withered Wasteland — complete its challenge (build a fire habitat near the hot springs). Each bird settles in your Pokopia afterward."
+      },
+      {
+        "task": "Gather materials for the Tidal Bell: 5 Rare Pokemetal + 5 Silver Feathers",
+        "hint": "Silver Feathers are found in ocean-related locations, especially around Bleak Beach and on Dream Island shores.",
+        "spoiler": "Rare Pokemetal is the same as for Ho-Oh's quest — mine deep in Rocky Ridges. Silver Feathers appear in coastal and water-adjacent locations: on Dream Islands shores, hidden in waterfall caves, on remote Surf-accessible rocks at Bleak Beach, and occasionally washed up on shore after storms. Use Surf to explore every coastline thoroughly."
+      },
+      {
+        "task": "Craft the Tidal Bell and summon Lugia",
+        "hint": "Craft this at the Skyscraper like the Clear Bell, but ring it at the harbor in Bleak Beach, not the rooftop.",
+        "spoiler": "With all three Legendary Birds befriended and 5 Rare Pokemetal + 5 Silver Feathers collected, craft the Tidal Bell at the Skyscraper. Then travel to the rebuilt harbor at Bleak Beach and ring the Tidal Bell at the end of the dock. Lugia rises from the ocean in a cinematic cutscene, creating a whirlpool that calms into gentle waves. Lugia joins your Pokopia and can be found swimming in water areas."
+      }
+    ],
+    "commonBlockers": [
+      {
+        "problem": "I can't find Silver Feathers",
+        "solution": "Silver Feathers spawn near water: check the shores of every Dream Island, explore Bleak Beach coastline thoroughly using Surf (including behind rocks and in hidden coves), look in waterfall caves in Rocky Ridges and Sparkling Skylands, and check the harbor area after storms. They shimmer with a silvery glow on the ground."
+      },
+      {
+        "problem": "I can't reach Articuno's frozen platform",
+        "solution": "You need Glide to reach it, but you also need enough height first. Build a tall structure or use Waterfall on a nearby cascade to gain altitude, then Glide across to the frozen platform. It's in the uppermost section of Sparkling Skylands, visible as a blue-tinted floating island."
+      },
+      {
+        "problem": "I need Rare Pokemetal for both Ho-Oh and Lugia — that's 10 total",
+        "solution": "Yes, you need 10 Rare Pokemetal total across both Legendary quests. Plan ahead and start stockpiling early. Mine every Pokemetal deposit in Rocky Ridges daily. Some players tackle one Legendary quest at a time to avoid the grind feeling overwhelming."
+      }
+    ],
+    "rewards": [
+      "Articuno, Zapdos, and Moltres befriended",
+      "Tidal Bell crafted",
+      "Lugia summoned and joins Pokopia",
+      "Calm seas weather effect unlocked",
+      "All Legendary Pokemon collected",
+      "Credits roll with a montage of your rebuilt Pokopia"
+    ],
+    "nextChapter": null
+  }
+]

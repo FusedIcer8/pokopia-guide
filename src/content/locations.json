@@ -1,0 +1,194 @@
+[
+  {
+    "id": "loc-001",
+    "name": "Withered Wasteland",
+    "biome": "wasteland",
+    "description": "The dried-out ruins of Fuchsia City and your starting area in Pokopia. A barren wasteland where the land has lost its vitality. Here you meet Professor Tangrowth, learn your first abilities, and begin the long journey to restore Pokopia to life. Despite its desolate appearance, Pokemetal blocks can be found here.",
+    "unlockRequirement": "Available from the start of the game. This is where your adventure begins.",
+    "keyItems": ["Pokemetal Fragment", "Sturdy Stick", "Stone", "Vine Rope", "Glowing Mushroom"],
+    "resources": ["Sturdy Stick", "Stone", "Leaf", "Small Log", "Vine Rope", "Squishy Clay", "Glowing Mushroom", "Pokemetal Fragment"],
+    "storyEvents": [
+      "Meet Professor Tangrowth who guides you through the basics",
+      "Learn Water Gun, Leafage, Cut, Rock Smash, Rototiller, and Jump abilities",
+      "Rescue Onix from the collapsed ruins",
+      "Rebuild the first Pokemon Center",
+      "Establish your first base of operations"
+    ],
+    "tips": "Focus on learning all six starter abilities thoroughly. Stock up on Sturdy Sticks and Stone early since they are used in hundreds of recipes. Do not ignore the Pokemetal blocks here - they become valuable later. Rescue Onix as soon as the quest appears since Onix helps clear major obstacles.",
+    "pokemon": ["Tangrowth (Professor, teaches abilities)", "Onix (rescue quest, Strength helper)", "Cacturne (drops Sturdy Sticks)", "Bellsprout (drops Vine Rope)", "Weepinbell (drops Vine Rope)", "Venusaur (drops Leaves)", "Combee (Honey from habitat Litter)"],
+    "icon": "\ud83c\udfdc\ufe0f",
+    "connected": ["loc-005", "loc-002"]
+  },
+  {
+    "id": "loc-002",
+    "name": "Bleak Beach",
+    "biome": "beach",
+    "description": "The gloomy, polluted remains of Vermilion City's coastline. When you first arrive, the beach is dim and covered in muk and garbage. As you clean up the pollution and restore the area, sunlight returns and the coast becomes vibrant again. Rich in coastal materials and the gateway to water exploration.",
+    "unlockRequirement": "Progress through Withered Wasteland story until the path to the coast opens.",
+    "keyItems": ["Sea Glass Fragment", "Seashell", "Nonburnable Garbage"],
+    "resources": ["Sea Glass Fragment", "Seashell", "Seaweed", "Nonburnable Garbage", "Twine"],
+    "storyEvents": [
+      "Arrive at the dim, polluted coastline of old Vermilion City",
+      "Learn Surf from Lapras, opening all water travel",
+      "Learn Camouflage from Zorua for stealth mechanics",
+      "Learn Suck up Liquids from Paldean Wooper for cleaning pollution",
+      "Awaken Mosslax (Munchlax/Snorlax) who was sleeping under the debris",
+      "Clean the muk-covered tiles to restore the beach"
+    ],
+    "tips": "Prioritize learning Surf from Lapras since it unlocks water areas across ALL regions. Clean up muk-covered tiles systematically to find Sea Glass Fragments underneath. Recycle Nonburnable Garbage into Iron Ore instead of discarding it. Paldean Wooper's Suck up Liquids ability is essential for pollution cleanup.",
+    "pokemon": ["Lapras (teaches Surf)", "Zorua (teaches Camouflage)", "Paldean Wooper (teaches Suck up Liquids)", "Mosslax/Munchlax/Snorlax (awakening quest)", "Shellder (coastal habitat)", "Staryu (coastal habitat)", "Krabby (shoreline)"],
+    "icon": "\ud83c\udfd6\ufe0f",
+    "connected": ["loc-001", "loc-003"]
+  },
+  {
+    "id": "loc-003",
+    "name": "Rocky Ridges",
+    "biome": "mountain",
+    "description": "The rugged, mountainous ruins of Pewter City. A land of stone, mines, and ore veins where the Pewter Museum still stands among the crags. This is the mining hub of Pokopia, home to copper, iron, gold, and crystal deposits. Chef Dente runs a kitchen here, teaching you all 24 cooking recipes.",
+    "unlockRequirement": "Progress through Bleak Beach story until the mountain pass opens.",
+    "keyItems": ["Copper Ore", "Iron Ore", "Gold Ore", "Crystal Fragment"],
+    "resources": ["Copper Ore", "Iron Ore", "Gold Ore", "Crystal Fragment", "Stone", "Glowing Mushroom"],
+    "storyEvents": [
+      "Discover the mines beneath old Pewter City",
+      "Learn Strength from Machoke for moving heavy objects",
+      "Learn Rollout from Graveler for breaking through obstacles",
+      "Explore the Pewter Museum and learn Pokopia's ancient history",
+      "Meet Chef Dente who teaches all 24 cooking recipes",
+      "Open the deep mines to access gold and crystal deposits"
+    ],
+    "tips": "This is your primary ore source for the entire game. Mine copper blocks on the upper levels, iron in the mid-levels, and gold in the deepest sections. Crystal Fragments come from large crystal formations and are needed for premium recipes. Visit Chef Dente regularly to learn new cooking recipes as you gather ingredients. Machoke's Strength ability opens blocked passages everywhere.",
+    "pokemon": ["Machoke (teaches Strength)", "Graveler (teaches Rollout)", "Chef Dente (NPC, teaches 24 cooking recipes)", "Geodude (Rock-type habitat)", "Aron (mine dweller)", "Roggenrola (cave habitat)", "Onix (deep mines)"],
+    "icon": "\u26f0\ufe0f",
+    "connected": ["loc-002", "loc-004"]
+  },
+  {
+    "id": "loc-004",
+    "name": "Sparkling Skylands",
+    "biome": "skylands",
+    "description": "The elevated, urban ruins of Celadon City floating among the clouds. The final main area to unlock, featuring tall structures, elevated platforms, and an urban landscape waiting to be rebuilt. Home to Wastepaper, Concrete materials, and Pokemetal blocks. The skyscraper rebuild is the area's signature restoration project.",
+    "unlockRequirement": "Complete the Rocky Ridges main story to unlock the path to the Skylands.",
+    "keyItems": ["Wastepaper", "Pokemetal Fragment", "Limestone"],
+    "resources": ["Wastepaper", "Pokemetal Fragment", "Limestone", "Concrete"],
+    "storyEvents": [
+      "Reach the elevated ruins of old Celadon City",
+      "Learn Glide from Dragonite for traversing gaps between platforms",
+      "Learn Waterfall from Gyarados for ascending vertical water features",
+      "Begin the skyscraper rebuild project, Pokopia's grandest restoration",
+      "Discover Pokemetal blocks among the urban ruins"
+    ],
+    "tips": "Glide from Dragonite is mandatory for navigating this area since platforms are separated by large gaps. Collect Wastepaper everywhere and Recycle it into Paper. Mine Limestone and process it in a Concrete Mixer for urban building materials. The skyscraper rebuild is a massive multi-phase project that showcases everything you have learned.",
+    "pokemon": ["Dragonite (teaches Glide)", "Gyarados (teaches Waterfall)", "Porygon (urban habitat)", "Magnemite (industrial areas)", "Rotom (old appliances)", "Tinkaton (processes Iron Ingots into Tinkagears)"],
+    "icon": "\ud83c\udfd9\ufe0f",
+    "connected": ["loc-003", "loc-005"]
+  },
+  {
+    "id": "loc-005",
+    "name": "Palette Town",
+    "biome": "town",
+    "description": "A massive freeform sandbox building area located to the left of Withered Wasteland. This is your creative canvas where you can build anything you imagine using all the materials and recipes you have gathered. Build legendary bird habitats here to attract Articuno, Zapdos, and Moltres.",
+    "unlockRequirement": "Unlocked after completing the Withered Wasteland tutorial section.",
+    "keyItems": ["Rainbow Feathers", "Silver Feathers"],
+    "resources": [],
+    "storyEvents": [
+      "Unlock the massive sandbox building area after the tutorial",
+      "Build Freezing Chambers habitat to attract Articuno",
+      "Build Abandoned Power Plant habitat to attract Zapdos",
+      "Build Altar of Flame habitat to attract Moltres",
+      "Create your dream town from scratch using all gathered materials"
+    ],
+    "tips": "This is where you express your creativity. There are no resource nodes here, but you place everything you have built and crafted. Prioritize building the three legendary bird habitats: Freezing Chambers for Articuno, Abandoned Power Plant for Zapdos, and Altar of Flame for Moltres. Each requires specific materials and unlocks a legendary Pokemon. Plan your town layout before placing structures since reorganizing later costs resources.",
+    "pokemon": ["Articuno (attracted by Freezing Chambers habitat)", "Zapdos (attracted by Abandoned Power Plant habitat)", "Moltres (attracted by Altar of Flame habitat)", "Ho-Oh (drops Rainbow Feathers)", "Lugia (drops Silver Feathers)", "Any Pokemon you assign to habitats"],
+    "icon": "\ud83c\udfe0",
+    "connected": ["loc-001", "loc-004"]
+  },
+  {
+    "id": "loc-006",
+    "name": "Wasteland Dream Island",
+    "biome": "dream-island",
+    "description": "A Dream Island accessed using the Eevee Doll via Drifloon. A lush version of the wasteland biome filled with abundant resources and hidden underground caverns. Suicune can be found in the underground sections of this island.",
+    "unlockRequirement": "Obtain the Eevee Doll and use Drifloon to travel. Limited to one Dream Island visit per day.",
+    "keyItems": ["Stardust", "Leppa Berry Seeds"],
+    "resources": ["Stardust", "Leppa Berry Seeds", "Vine Rope", "Glowing Mushroom"],
+    "storyEvents": [
+      "First Dream Island discovery via Drifloon travel",
+      "Explore underground caverns beneath the island",
+      "Encounter Suicune in the underground area"
+    ],
+    "tips": "Gather all Stardust you can find since Dream Islands are the only source. The underground section holds Suicune and extra Glowing Mushrooms. Leppa Berry Seeds are abundant here. Remember you can only visit one Dream Island per day via Drifloon, so plan your visits.",
+    "pokemon": ["Suicune (underground encounter)", "Eevee (island inhabitants)", "Drifloon (transportation)"],
+    "icon": "\ud83c\udf34",
+    "connected": []
+  },
+  {
+    "id": "loc-007",
+    "name": "Ocean Dream Island",
+    "biome": "dream-island",
+    "description": "A Dream Island accessed using the Pikachu Doll via Drifloon. A tropical coastal paradise with pristine waters and sandy shores. The underground sections of this island are home to the legendary beast Raikou.",
+    "unlockRequirement": "Obtain the Pikachu Doll and use Drifloon to travel. Limited to one Dream Island visit per day.",
+    "keyItems": ["Stardust", "Sea Glass Fragment"],
+    "resources": ["Stardust", "Twine", "Sea Glass Fragment", "Seashell"],
+    "storyEvents": [
+      "Discover the ocean-themed Dream Island",
+      "Explore underground caves beneath the island",
+      "Encounter Raikou in the underground area"
+    ],
+    "tips": "Excellent source of Sea Glass Fragments and Seashells without needing to clean pollution first. Twine is also plentiful. Raikou waits in the underground, so explore the caves thoroughly. Always collect every Stardust node.",
+    "pokemon": ["Raikou (underground encounter)", "Pikachu (island inhabitants)", "Drifloon (transportation)", "Water-type Pokemon (coastal areas)"],
+    "icon": "\ud83c\udf0a",
+    "connected": []
+  },
+  {
+    "id": "loc-008",
+    "name": "Rock Peak Dream Island",
+    "biome": "dream-island",
+    "description": "A Dream Island accessed using the Clefairy Doll via Drifloon. A mountainous island with exposed cave systems rich in minerals. Features unique Limestone deposits and ice formations not found elsewhere.",
+    "unlockRequirement": "Obtain the Clefairy Doll and use Drifloon to travel. Limited to one Dream Island visit per day.",
+    "keyItems": ["Stardust", "Limestone"],
+    "resources": ["Stardust", "Cave Mushrooms", "Copper Ore", "Limestone", "Ice"],
+    "storyEvents": [
+      "Discover the mountain-themed Dream Island",
+      "Explore mineral-rich cave systems",
+      "Discover ice formations unique to this island"
+    ],
+    "tips": "This island is a great supplemental source of Copper Ore and the only Dream Island with Limestone, which you need for Concrete production. Cave Mushrooms grow in the underground sections. Ice materials here are useful for building Freezing Chambers for the Articuno habitat in Palette Town.",
+    "pokemon": ["Clefairy (island inhabitants)", "Clefable (rare sighting)", "Drifloon (transportation)", "Rock-type Pokemon (cave inhabitants)"],
+    "icon": "\ud83c\udfd4\ufe0f",
+    "connected": []
+  },
+  {
+    "id": "loc-009",
+    "name": "Volcanic Dream Island",
+    "biome": "dream-island",
+    "description": "A Dream Island accessed using the Arcanine Doll via Drifloon. A volcanic island with lava flows, molten rock, and rich ore deposits. The underground volcanic chambers are where the legendary beast Entei resides.",
+    "unlockRequirement": "Obtain the Arcanine Doll and use Drifloon to travel. Limited to one Dream Island visit per day.",
+    "keyItems": ["Stardust", "Glowing Stone"],
+    "resources": ["Stardust", "Iron Ore", "Gold Ore", "Glowing Stone"],
+    "storyEvents": [
+      "Discover the volcanic Dream Island",
+      "Navigate lava flows and volcanic terrain",
+      "Encounter Entei in the underground volcanic chamber"
+    ],
+    "tips": "The best Dream Island for ore farming with both Iron and Gold Ore deposits. Glowing Stone is unique to this island and useful in fire-themed recipes. Entei is in the deepest underground chamber. Be prepared for the volcanic terrain which can be tricky to navigate.",
+    "pokemon": ["Entei (underground encounter)", "Arcanine (island inhabitants)", "Drifloon (transportation)", "Fire-type Pokemon (volcanic areas)"],
+    "icon": "\ud83c\udf0b",
+    "connected": []
+  },
+  {
+    "id": "loc-010",
+    "name": "Sky Dream Island",
+    "biome": "dream-island",
+    "description": "A Dream Island accessed using the Dragonite Doll via Drifloon. An elevated island floating among the clouds with aerial platforms and wind currents. The most resource-rich Dream Island, featuring Pokemetal Fragments, Crystal Fragments, and the legendary Pokemon Mewtwo.",
+    "unlockRequirement": "Obtain the Dragonite Doll and use Drifloon to travel. Limited to one Dream Island visit per day.",
+    "keyItems": ["Stardust", "Pokemetal Fragment"],
+    "resources": ["Stardust", "Wastepaper", "Pokemetal Fragment", "Crystal Fragment"],
+    "storyEvents": [
+      "Discover the sky-themed Dream Island, the most challenging to navigate",
+      "Navigate wind currents and floating platforms",
+      "Encounter Mewtwo, the ultimate legendary Pokemon challenge"
+    ],
+    "tips": "The most valuable Dream Island for endgame materials. Pokemetal Fragments and Crystal Fragments are both available here, making it the top priority for late-game farming. Mewtwo is the most powerful encounter in any Dream Island. Use the Glide ability (from Dragonite) to navigate the floating platforms efficiently. Always visit this island when farming for endgame crafting materials.",
+    "pokemon": ["Mewtwo (ultimate encounter)", "Dragonite (island inhabitants)", "Drifloon (transportation)", "Flying-type Pokemon (aerial platforms)"],
+    "icon": "\u2601\ufe0f",
+    "connected": []
+  }
+]
