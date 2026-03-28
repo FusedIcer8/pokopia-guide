@@ -223,10 +223,12 @@ export default function LocationsPage() {
       {filteredLocations.length > 0 ? (
         <div className="grid-2">
           {filteredLocations.map((loc) => (
-            <div
+            <button
               key={loc.id}
               className="card card-hoverable location-card"
               onClick={() => setSelectedLocation(loc)}
+              type="button"
+              style={{ width: '100%', textAlign: 'left', cursor: 'pointer' }}
             >
               <span className="card-icon">{loc.icon}</span>
               <div style={{ flex: 1 }}>
@@ -251,16 +253,25 @@ export default function LocationsPage() {
                   </p>
                 )}
               </div>
-              <button
+              <span
                 className={`fav-btn ${isFavorite(loc.id) ? 'active' : ''}`}
+                role="button"
+                tabIndex={0}
                 onClick={(e) => {
                   e.stopPropagation();
                   toggleFavorite(loc.id);
                 }}
+                onKeyDown={(e) => {
+                  if (e.key === 'Enter' || e.key === ' ') {
+                    e.stopPropagation();
+                    toggleFavorite(loc.id);
+                  }
+                }}
+                aria-label={isFavorite(loc.id) ? 'Remove from favorites' : 'Add to favorites'}
               >
                 {isFavorite(loc.id) ? '❤️' : '🤍'}
-              </button>
-            </div>
+              </span>
+            </button>
           ))}
         </div>
       ) : (

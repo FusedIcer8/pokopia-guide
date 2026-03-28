@@ -166,20 +166,21 @@ export default function StoryPage() {
                         </div>
 
                         {/* Spoiler Block */}
-                        <div
+                        <button
                           className={`spoiler ${spoilerRevealed ? 'spoiler-revealed' : 'spoiler-hidden'}`}
                           onClick={() => toggleSpoiler(objKey)}
-                          style={{ marginTop: '0.5rem', marginBottom: '0.75rem', marginLeft: '2.25rem' }}
+                          type="button"
+                          style={{ marginTop: '0.5rem', marginBottom: '0.75rem', marginLeft: '2.25rem', width: 'calc(100% - 2.25rem)', textAlign: 'left' }}
                         >
                           <div className="spoiler-content">
                             <p style={{ fontSize: '0.9rem' }}>{obj.spoiler}</p>
                           </div>
                           {!spoilerRevealed && (
                             <div className="spoiler-overlay">
-                              Click to reveal spoiler
+                              Tap to reveal spoiler
                             </div>
                           )}
-                        </div>
+                        </button>
                       </div>
                     );
                   })}

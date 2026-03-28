@@ -177,17 +177,19 @@ export default function UnstuckPage() {
                       <div style={{ fontSize: '0.9rem', color: 'var(--text-secondary)', marginBottom: '0.5rem' }}>
                         💡 Hint: {obj.hint}
                       </div>
-                      <div
+                      <button
                         className={`spoiler ${isRevealed ? 'spoiler-revealed' : 'spoiler-hidden'}`}
                         onClick={() => toggleSpoiler(spoilerKey)}
+                        type="button"
+                        style={{ width: '100%', textAlign: 'left' }}
                       >
                         <div className="spoiler-content">
                           <p style={{ fontSize: '0.85rem', margin: 0 }}>{obj.spoiler}</p>
                         </div>
                         {!isRevealed && (
-                          <div className="spoiler-overlay">🔒 Click to reveal spoiler</div>
+                          <div className="spoiler-overlay">Tap to reveal spoiler</div>
                         )}
-                      </div>
+                      </button>
                     </div>
                   );
                 })}

@@ -211,12 +211,14 @@ export default function FavoritesPage() {
                       const checked = isChecked('story', objId);
                       return (
                         <div key={idx} className="checklist-item">
-                          <div
+                          <button
                             className={`checklist-checkbox ${checked ? 'checked' : ''}`}
                             onClick={() => toggleCheck('story', objId)}
+                            type="button"
+                            aria-label={checked ? `Unmark: ${obj.task}` : `Mark complete: ${obj.task}`}
                           >
                             {checked ? '✓' : ''}
-                          </div>
+                          </button>
                           <span className={`checklist-label ${checked ? 'checked' : ''}`}>
                             {obj.task}
                           </span>
@@ -266,12 +268,14 @@ export default function FavoritesPage() {
                       const checked = isChecked('collectibles', item.id);
                       return (
                         <div key={item.id} className="checklist-item">
-                          <div
+                          <button
                             className={`checklist-checkbox ${checked ? 'checked' : ''}`}
                             onClick={() => toggleCheck('collectibles', item.id)}
+                            type="button"
+                            aria-label={checked ? `Unmark: ${item.name}` : `Mark collected: ${item.name}`}
                           >
                             {checked ? '✓' : ''}
-                          </div>
+                          </button>
                           <span style={{ fontSize: '1.25rem', flexShrink: 0 }}>{item.icon}</span>
                           <span className={`checklist-label ${checked ? 'checked' : ''}`}>
                             {item.name}

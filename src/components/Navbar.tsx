@@ -29,12 +29,12 @@ export default function Navbar() {
   return (
     <>
       <nav className="navbar">
-        <div className="navbar-inner">
+        <div className="navbar-inner container">
           <Link href="/" className="navbar-logo">
             Pokopia Guide
           </Link>
 
-          <div className={`navbar-links ${mobileOpen ? 'open' : ''}`}>
+          <div className="navbar-links">
             {navLinks.map(({ href, label }) => (
               <Link
                 key={href}
@@ -51,6 +51,7 @@ export default function Navbar() {
               className="navbar-action-btn"
               onClick={() => setSearchOpen(true)}
               aria-label="Search"
+              type="button"
             >
               🔍
             </button>
@@ -59,6 +60,7 @@ export default function Navbar() {
               className="navbar-action-btn"
               onClick={toggleTheme}
               aria-label="Toggle theme"
+              type="button"
             >
               {theme === 'light' ? '🌙' : '☀️'}
             </button>
@@ -72,10 +74,24 @@ export default function Navbar() {
               className="navbar-hamburger"
               onClick={() => setMobileOpen((prev) => !prev)}
               aria-label="Toggle menu"
+              type="button"
             >
               {mobileOpen ? '✕' : '☰'}
             </button>
           </div>
+        </div>
+
+        {/* Mobile menu - separate from navbar-links so it renders on mobile */}
+        <div className={`navbar-mobile-menu ${mobileOpen ? 'open' : ''}`}>
+          {navLinks.map(({ href, label }) => (
+            <Link
+              key={href}
+              href={href}
+              className={`navbar-link ${pathname === href ? 'active' : ''}`}
+            >
+              {label}
+            </Link>
+          ))}
         </div>
       </nav>
 

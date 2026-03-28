@@ -245,10 +245,12 @@ export default function ItemsPage() {
       {filteredItems.length > 0 ? (
         <div className="grid-3">
           {filteredItems.map((item) => (
-            <div
+            <button
               key={item.id}
               className="card card-hoverable item-card"
               onClick={() => setSelectedItem(item)}
+              type="button"
+              style={{ textAlign: 'center' }}
             >
               <span className="card-icon">{item.icon}</span>
               <h3 className="card-title">{item.name}</h3>
@@ -265,17 +267,26 @@ export default function ItemsPage() {
                   ? `${item.description.slice(0, 80)}...`
                   : item.description}
               </p>
-              <button
+              <span
                 className={`fav-btn ${isFavorite(item.id) ? 'active' : ''}`}
+                role="button"
+                tabIndex={0}
                 onClick={(e) => {
                   e.stopPropagation();
                   toggleFavorite(item.id);
                 }}
+                onKeyDown={(e) => {
+                  if (e.key === 'Enter' || e.key === ' ') {
+                    e.stopPropagation();
+                    toggleFavorite(item.id);
+                  }
+                }}
                 style={{ position: 'absolute', top: '0.75rem', right: '0.75rem' }}
+                aria-label={isFavorite(item.id) ? 'Remove from favorites' : 'Add to favorites'}
               >
                 {isFavorite(item.id) ? '❤️' : '🤍'}
-              </button>
-            </div>
+              </span>
+            </button>
           ))}
         </div>
       ) : (

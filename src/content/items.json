@@ -10,7 +10,7 @@
     "uses": ["crafting", "cooking"],
     "gamePhase": "early",
     "farmingTip": "Build Combee habitats early and check their Litter regularly. Sparkling flower beds respawn daily across all four main areas.",
-    "icon": "\ud83c\udf6f",
+    "icon": "🍯",
     "relatedItems": ["item-031", "item-032"]
   },
   {
@@ -24,7 +24,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "early",
     "farmingTip": "Cut every piece of wood you see in Withered Wasteland. Cacturne drops these reliably if you have one as a companion.",
-    "icon": "\ud83e\udeb5",
+    "icon": "🪵",
     "relatedItems": ["item-006", "item-021"]
   },
   {
@@ -38,7 +38,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "early",
     "farmingTip": "Rock-type Pokemon habitats produce Stone in their Litter constantly. Rock Smash every block you pass in Rocky Ridges for bulk gathering.",
-    "icon": "\ud83e\udea8",
+    "icon": "🪨",
     "relatedItems": ["item-004", "item-015"]
   },
   {
@@ -52,7 +52,7 @@
     "uses": ["crafting", "cooking"],
     "gamePhase": "early",
     "farmingTip": "Withered Wasteland and Bleak Beach have abundant tall grass. Venusaur is an excellent farming companion for Leaf drops.",
-    "icon": "\ud83c\udf43",
+    "icon": "🍃",
     "relatedItems": ["item-007", "item-002"]
   },
   {
@@ -66,7 +66,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "early",
     "farmingTip": "Haxorus Litter boxes are the best passive source. For active farming, cycle through trees in Withered Wasteland since they regrow quickly.",
-    "icon": "\ud83e\udeb5",
+    "icon": "🪵",
     "relatedItems": ["item-021", "item-002"]
   },
   {
@@ -80,7 +80,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "early",
     "farmingTip": "Vines regrow after a day. Bellsprout habitats with Litter boxes provide a steady passive supply without needing to explore.",
-    "icon": "\ud83e\udeb2",
+    "icon": "🪢",
     "relatedItems": ["item-002", "item-004"]
   },
   {
@@ -94,7 +94,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "mid",
     "farmingTip": "Cave mushrooms respawn regularly. The Wasteland Dream Island also has abundant Glowing Mushrooms in its underground sections.",
-    "icon": "\ud83c\udf44",
+    "icon": "🍄",
     "relatedItems": ["item-008"]
   },
   {
@@ -108,7 +108,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "early",
     "farmingTip": "Bug-type habitats are the most reliable source. Cutting cobwebs in caves yields Twine as a bonus while mining.",
-    "icon": "\ud83e\uddf5",
+    "icon": "🧵",
     "relatedItems": ["item-006", "item-010"]
   },
   {
@@ -122,7 +122,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "mid",
     "farmingTip": "Systematically clean muk-covered tiles at Bleak Beach. Each cleaned tile has a chance to drop Sea Glass. Ocean Dream Island is another reliable source.",
-    "icon": "\ud83d\udc8e",
+    "icon": "💎",
     "relatedItems": ["item-010", "item-011"]
   },
   {
@@ -136,7 +136,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "mid",
     "farmingTip": "Walk the full Bleak Beach shoreline each day. Shells respawn daily and are plentiful once you clear the pollution.",
-    "icon": "\ud83d\udc1a",
+    "icon": "🐚",
     "relatedItems": ["item-009", "item-011"]
   },
   {
@@ -150,7 +150,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "early",
     "farmingTip": "Ground-type Litter boxes are the easiest passive source. Dig up clay blocks whenever you spot them to stockpile for Brick production.",
-    "icon": "\ud83e\udea8",
+    "icon": "🪨",
     "relatedItems": ["item-022", "item-003"]
   },
   {
@@ -164,7 +164,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "early",
     "farmingTip": "Build Mareep habitats as soon as possible. Their Litter boxes produce Fluff consistently, making it one of the easiest materials to farm passively.",
-    "icon": "\u2601\ufe0f",
+    "icon": "☁️",
     "relatedItems": ["item-008"]
   },
   {
@@ -178,7 +178,7 @@
     "uses": ["crafting"],
     "gamePhase": "late",
     "farmingTip": "Sparkling Skylands is loaded with Wastepaper. Collect it in bulk and Recycle it into Paper for wallpaper and decoration recipes.",
-    "icon": "\ud83d\udcc4",
+    "icon": "📄",
     "relatedItems": ["item-028"]
   },
   {
@@ -192,7 +192,7 @@
     "uses": ["crafting", "cooking"],
     "gamePhase": "mid",
     "farmingTip": "Once you learn Surf from Lapras at Bleak Beach, water areas across all regions become accessible for Seaweed gathering.",
-    "icon": "\ud83c\udf3f",
+    "icon": "🌿",
     "relatedItems": ["item-009", "item-010"]
   },
   {
@@ -206,7 +206,7 @@
     "uses": ["crafting"],
     "gamePhase": "mid",
     "farmingTip": "Do not throw this away. Use the Recycle ability to convert Nonburnable Garbage into Iron Ore, giving you a valuable secondary ore source.",
-    "icon": "\ud83d\uddd1\ufe0f",
+    "icon": "🗑️",
     "relatedItems": ["item-017"]
   },
   {
@@ -220,7 +220,7 @@
     "uses": ["crafting"],
     "gamePhase": "mid",
     "farmingTip": "Rocky Ridges has abundant copper blocks on its lower levels. Rock Peak Dream Island also has copper deposits for supplemental farming.",
-    "icon": "\ud83e\udea8",
+    "icon": "🪨",
     "relatedItems": ["item-024", "item-017"]
   },
   {
@@ -234,7 +234,7 @@
     "uses": ["crafting"],
     "gamePhase": "mid",
     "farmingTip": "Combine active mining in Rocky Ridges with Recycling Nonburnable Garbage from Bleak Beach for maximum Iron Ore throughput.",
-    "icon": "\u2699\ufe0f",
+    "icon": "⚙️",
     "relatedItems": ["item-025", "item-015", "item-030"]
   },
   {
@@ -248,7 +248,7 @@
     "uses": ["crafting"],
     "gamePhase": "mid",
     "farmingTip": "Gold blocks are rarer than copper or iron. Focus on the deepest mine levels in Rocky Ridges. Volcanic Dream Island has additional gold deposits.",
-    "icon": "\ud83e\udea8",
+    "icon": "🪨",
     "relatedItems": ["item-026"]
   },
   {
@@ -262,7 +262,7 @@
     "uses": ["crafting"],
     "gamePhase": "late",
     "farmingTip": "Pokemetal blocks are scattered across Withered Wasteland and Sparkling Skylands. Sky Dream Island is the best Dream Island source. Smelt these into Pokemetal for endgame recipes.",
-    "icon": "\ud83d\udd37",
+    "icon": "🔷",
     "relatedItems": ["item-020", "item-027"]
   },
   {
@@ -276,7 +276,7 @@
     "uses": ["crafting"],
     "gamePhase": "late",
     "farmingTip": "This is a rare drop, not guaranteed. Mine every Pokemetal block you find and be patient. You will need several for legendary-tier recipes.",
-    "icon": "\ud83d\udd36",
+    "icon": "🔶",
     "relatedItems": ["item-019", "item-027"]
   },
   {
@@ -290,7 +290,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "early",
     "farmingTip": "Recruit Scyther or Haxorus as soon as possible for their Chop specialty. Keep a stockpile of Small Logs feeding into Lumber production at all times.",
-    "icon": "\ud83e\udeb5",
+    "icon": "🪵",
     "relatedItems": ["item-005"]
   },
   {
@@ -304,7 +304,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "early",
     "farmingTip": "Ground-type Litter boxes produce Squishy Clay passively. Keep a Burn-specialty Pokemon busy converting clay to bricks for your construction projects.",
-    "icon": "\ud83e\uddf1",
+    "icon": "🧱",
     "relatedItems": ["item-011"]
   },
   {
@@ -318,7 +318,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "mid",
     "farmingTip": "Large crystals in Rocky Ridges are the primary source. Sky Dream Island also has Crystal Fragments for supplemental farming.",
-    "icon": "\ud83d\udc8e",
+    "icon": "💎",
     "relatedItems": ["item-016", "item-018"]
   },
   {
@@ -332,7 +332,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "mid",
     "farmingTip": "Set up a smelting station near your ore storage. Process copper in batches to keep your ingot supply ahead of your crafting needs.",
-    "icon": "\ud83e\udea8",
+    "icon": "🪨",
     "relatedItems": ["item-016"]
   },
   {
@@ -346,7 +346,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "mid",
     "farmingTip": "Iron Ingots are in constant demand. Maintain a smelting pipeline from Rocky Ridges mining runs and Bleak Beach garbage recycling.",
-    "icon": "\u2699\ufe0f",
+    "icon": "⚙️",
     "relatedItems": ["item-017", "item-030"]
   },
   {
@@ -360,7 +360,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "mid",
     "farmingTip": "Gold Ingots are needed less frequently than Iron but in larger quantities per recipe. Stockpile Gold Ore during mining runs.",
-    "icon": "\ud83e\udea8",
+    "icon": "🪨",
     "relatedItems": ["item-018"]
   },
   {
@@ -374,7 +374,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "late",
     "farmingTip": "Pokemetal Fragments are scarce. Mine every Pokemetal block in Withered Wasteland, Sparkling Skylands, and Sky Dream Island to keep your supply up.",
-    "icon": "\ud83d\udd37",
+    "icon": "🔷",
     "relatedItems": ["item-019", "item-020"]
   },
   {
@@ -388,7 +388,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "late",
     "farmingTip": "Sparkling Skylands has Wastepaper everywhere. Gather in bulk and recycle it all at once for efficient Paper production.",
-    "icon": "\ud83d\udcc3",
+    "icon": "📃",
     "relatedItems": ["item-013"]
   },
   {
@@ -402,7 +402,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "mid",
     "farmingTip": "Sand and sandstone are plentiful in Bleak Beach and Rocky Ridges. Volcanic ash appears near lava areas. Keep a Burn-specialty Pokemon assigned to glass production.",
-    "icon": "\ud83e\ude9f",
+    "icon": "🪟",
     "relatedItems": ["item-022"]
   },
   {
@@ -416,7 +416,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "mid",
     "farmingTip": "Tinkaton is the only Pokemon that can make Tinkagears. Recruit one as soon as possible and keep it supplied with Iron Ingots.",
-    "icon": "\u2699\ufe0f",
+    "icon": "⚙️",
     "relatedItems": ["item-025", "item-017"]
   },
   {
@@ -430,7 +430,7 @@
     "uses": ["building"],
     "gamePhase": "late",
     "farmingTip": "Limestone is specific to Sparkling Skylands and Rock Peak Dream Island. Build a Concrete Mixer early in the Skylands phase to start stockpiling.",
-    "icon": "\ud83e\uddf1",
+    "icon": "🧱",
     "relatedItems": ["item-022"]
   },
   {
@@ -444,7 +444,7 @@
     "uses": ["farming", "cooking"],
     "gamePhase": "early",
     "farmingTip": "Plant these using Rototiller-prepared soil. Water daily for best growth. Save some berries to get more seeds rather than using them all for cooking.",
-    "icon": "\ud83c\udf31",
+    "icon": "🌱",
     "relatedItems": ["item-033", "item-034"]
   },
   {
@@ -458,7 +458,7 @@
     "uses": ["farming", "cooking"],
     "gamePhase": "early",
     "farmingTip": "Chesto Berries grow quickly and are useful in early cooking recipes. Plant a row alongside your other berry crops.",
-    "icon": "\ud83c\udf31",
+    "icon": "🌱",
     "relatedItems": ["item-032", "item-034"]
   },
   {
@@ -472,7 +472,7 @@
     "uses": ["farming", "cooking"],
     "gamePhase": "early",
     "farmingTip": "Wasteland Dream Island is particularly rich in Leppa Berry Seeds. Grab extras during Dream Island visits.",
-    "icon": "\ud83c\udf31",
+    "icon": "🌱",
     "relatedItems": ["item-032", "item-033"]
   },
   {
@@ -486,7 +486,7 @@
     "uses": ["farming", "cooking"],
     "gamePhase": "early",
     "farmingTip": "Pecha Berries are among the most used cooking ingredients. Dedicate a farm plot to continuous Pecha production.",
-    "icon": "\ud83c\udf31",
+    "icon": "🌱",
     "relatedItems": ["item-032", "item-036"]
   },
   {
@@ -500,7 +500,7 @@
     "uses": ["farming", "cooking"],
     "gamePhase": "early",
     "farmingTip": "Wheat is used in a huge number of cooking recipes. Plant large fields and keep a constant supply growing. Use Rototiller to prepare soil efficiently.",
-    "icon": "\ud83c\udf3e",
+    "icon": "🌾",
     "relatedItems": ["item-037", "item-038"]
   },
   {
@@ -514,7 +514,7 @@
     "uses": ["farming", "cooking"],
     "gamePhase": "early",
     "farmingTip": "Tomato plants produce multiple harvests before needing replanting. Keep them watered daily for maximum yield.",
-    "icon": "\ud83c\udf45",
+    "icon": "🍅",
     "relatedItems": ["item-036", "item-038"]
   },
   {
@@ -528,7 +528,7 @@
     "uses": ["farming", "cooking"],
     "gamePhase": "early",
     "farmingTip": "Beans grow reliably and are used in several recipes that Chef Dente teaches at Rocky Ridges. Always keep some in stock.",
-    "icon": "\ud83c\udf31",
+    "icon": "🌱",
     "relatedItems": ["item-036", "item-037"]
   },
   {
@@ -542,7 +542,7 @@
     "uses": ["crafting", "building"],
     "gamePhase": "mid",
     "farmingTip": "You can only visit one Dream Island per day via Drifloon. Plan your visits strategically and always gather all available Stardust during each trip.",
-    "icon": "\u2728",
+    "icon": "✨",
     "relatedItems": ["item-019", "item-023"]
   },
   {
@@ -556,7 +556,7 @@
     "uses": ["crafting"],
     "gamePhase": "late",
     "farmingTip": "Ho-Oh must be attracted by building and completing the Altar of Flame in Palette Town. Rainbow Feathers drop infrequently, so be patient.",
-    "icon": "\ud83e\udeb6",
+    "icon": "🪶",
     "relatedItems": ["item-041"]
   },
   {
@@ -570,7 +570,7 @@
     "uses": ["crafting"],
     "gamePhase": "late",
     "farmingTip": "Lugia is one of the hardest legendaries to attract. Build the required habitat and check regularly for Silver Feather drops.",
-    "icon": "\ud83e\udeb6",
+    "icon": "🪶",
     "relatedItems": ["item-040"]
   },
   {
@@ -584,7 +584,7 @@
     "uses": ["quest"],
     "gamePhase": "late",
     "farmingTip": "These are fixed collectibles, not farmable. Explore every corner of every area thoroughly. Some are hidden behind puzzles or in hard-to-reach spots. Collecting all 27 unlocks Mew.",
-    "icon": "\ud83e\udea8",
+    "icon": "🪨",
     "relatedItems": []
   },
   {
@@ -598,7 +598,7 @@
     "uses": ["crafting"],
     "gamePhase": "mid",
     "farmingTip": "Glowing blocks are uncommon and the drop rate for Strange Strings is low. Mine every glowing block you encounter across all areas.",
-    "icon": "\ud83e\uddf6",
+    "icon": "🧶",
     "relatedItems": ["item-044"]
   },
   {
@@ -612,7 +612,861 @@
     "uses": ["crafting"],
     "gamePhase": "mid",
     "farmingTip": "Like Strange Strings, these drop from glowing blocks at a low rate. Prioritize mining any glowing blocks you spot for a chance at this rare material.",
-    "icon": "\ud83d\udee1\ufe0f",
+    "icon": "🛡️",
     "relatedItems": ["item-043"]
+  },
+  {
+    "id": "item-045",
+    "name": "Simple Salad",
+    "category": "food",
+    "rarity": "common",
+    "description": "A basic leafy salad made at the Chopping Board. The first recipe you learn from Chef Dente. Upgrades your Leafage ability when consumed by a Pokemon.",
+    "howToObtain": "Cook at the Chopping Board using Leaves and basic vegetables.",
+    "location": "Crafted at Chopping Board",
+    "uses": ["ability-upgrade"],
+    "gamePhase": "early",
+    "farmingTip": "Simple Salad is the easiest food to mass-produce. Keep Leaves stocked and chop salads in bulk to always have Leafage upgrades ready.",
+    "icon": "🥗",
+    "relatedItems": ["item-046", "item-047", "item-004"]
+  },
+  {
+    "id": "item-046",
+    "name": "Leppa Salad",
+    "category": "food",
+    "rarity": "common",
+    "description": "A sweet salad featuring Leppa Berries over fresh greens. Prepared at the Chopping Board and upgrades Leafage with a sweet flavor boost.",
+    "howToObtain": "Cook at the Chopping Board using Leppa Berries and Leaves.",
+    "location": "Crafted at Chopping Board",
+    "uses": ["ability-upgrade"],
+    "gamePhase": "early",
+    "farmingTip": "Farm Leppa Berries from your garden to keep a steady supply. Sweet-flavored foods are preferred by many Pokemon.",
+    "icon": "🥗",
+    "relatedItems": ["item-045", "item-034"]
+  },
+  {
+    "id": "item-047",
+    "name": "Seaweed Salad",
+    "category": "food",
+    "rarity": "uncommon",
+    "description": "A fresh ocean-flavored salad using harvested Seaweed. Made at the Chopping Board and provides a salty Leafage upgrade.",
+    "howToObtain": "Cook at the Chopping Board using Seaweed and Leaves.",
+    "location": "Crafted at Chopping Board",
+    "uses": ["ability-upgrade"],
+    "gamePhase": "mid",
+    "farmingTip": "Requires Seaweed from Bleak Beach water areas. Pair Seaweed gathering with your beach cleanup runs for efficiency.",
+    "icon": "🥗",
+    "relatedItems": ["item-045", "item-014"]
+  },
+  {
+    "id": "item-048",
+    "name": "Crouton Salad",
+    "category": "food",
+    "rarity": "uncommon",
+    "description": "A hearty salad topped with toasted bread croutons. The most filling salad recipe, providing a strong Leafage upgrade.",
+    "howToObtain": "Cook at the Chopping Board using Wheat, Leaves, and a Berry.",
+    "location": "Crafted at Chopping Board",
+    "uses": ["ability-upgrade"],
+    "gamePhase": "mid",
+    "farmingTip": "Requires Wheat from your farm. This is the best salad for maximizing Leafage power, so prioritize it once your wheat supply is stable.",
+    "icon": "🥗",
+    "relatedItems": ["item-045", "item-036"]
+  },
+  {
+    "id": "item-049",
+    "name": "Simple Soup",
+    "category": "food",
+    "rarity": "common",
+    "description": "A warm, basic broth cooked in the Cooking Pot. The entry-level soup recipe that upgrades your Water Gun ability.",
+    "howToObtain": "Cook at the Cooking Pot using water ingredients and basic vegetables.",
+    "location": "Crafted at Cooking Pot",
+    "uses": ["ability-upgrade"],
+    "gamePhase": "early",
+    "farmingTip": "Simple Soup requires minimal ingredients. Cook it in bulk early on to keep your Water Gun powered up for cleaning pollution.",
+    "icon": "🍲",
+    "relatedItems": ["item-050", "item-051"]
+  },
+  {
+    "id": "item-050",
+    "name": "Seaweed Soup",
+    "category": "food",
+    "rarity": "uncommon",
+    "description": "A savory ocean broth made with fresh Seaweed in the Cooking Pot. Provides a salty Water Gun upgrade.",
+    "howToObtain": "Cook at the Cooking Pot using Seaweed and water ingredients.",
+    "location": "Crafted at Cooking Pot",
+    "uses": ["ability-upgrade"],
+    "gamePhase": "mid",
+    "farmingTip": "Combine Seaweed gathering at Bleak Beach with soup cooking sessions. Water Gun upgrades help immensely with beach cleanup progress.",
+    "icon": "🍲",
+    "relatedItems": ["item-049", "item-014"]
+  },
+  {
+    "id": "item-051",
+    "name": "Mushroom Soup",
+    "category": "food",
+    "rarity": "uncommon",
+    "description": "A rich, earthy soup made with Glowing Mushrooms in the Cooking Pot. Provides a bitter Water Gun upgrade favored by certain Pokemon.",
+    "howToObtain": "Cook at the Cooking Pot using Glowing Mushrooms and basic ingredients.",
+    "location": "Crafted at Cooking Pot",
+    "uses": ["ability-upgrade"],
+    "gamePhase": "mid",
+    "farmingTip": "Glowing Mushrooms from caves double as soup ingredients. Grab extras during mining runs specifically for cooking.",
+    "icon": "🍲",
+    "relatedItems": ["item-049", "item-007"]
+  },
+  {
+    "id": "item-052",
+    "name": "Electrifying Soup",
+    "category": "food",
+    "rarity": "rare",
+    "description": "A tingling, energizing soup with a spicy kick. Made in the Cooking Pot using Electric-type Pokemon litter ingredients. Provides a powerful Water Gun upgrade.",
+    "howToObtain": "Cook at the Cooking Pot using special ingredients from Electric-type Pokemon Litter boxes.",
+    "location": "Crafted at Cooking Pot",
+    "uses": ["ability-upgrade"],
+    "gamePhase": "mid",
+    "farmingTip": "Electric-type habitats like Pikachu and Mareep produce the special ingredients needed. This is one of the strongest Water Gun upgrades available.",
+    "icon": "🍲",
+    "relatedItems": ["item-049", "item-012"]
+  },
+  {
+    "id": "item-053",
+    "name": "Simple Bread",
+    "category": "food",
+    "rarity": "common",
+    "description": "A basic loaf baked in the Bread Oven. The first bread recipe available that upgrades your Cut ability when consumed.",
+    "howToObtain": "Bake at the Bread Oven using Wheat.",
+    "location": "Crafted at Bread Oven",
+    "uses": ["ability-upgrade"],
+    "gamePhase": "early",
+    "farmingTip": "Wheat is the only ingredient needed. Keep your wheat farm productive and bake bread in large batches for consistent Cut upgrades.",
+    "icon": "🍞",
+    "relatedItems": ["item-054", "item-055", "item-036"]
+  },
+  {
+    "id": "item-054",
+    "name": "Leppa Bread",
+    "category": "food",
+    "rarity": "common",
+    "description": "Sweet bread baked with Leppa Berries folded into the dough. A sweet-flavored Cut upgrade baked in the Bread Oven.",
+    "howToObtain": "Bake at the Bread Oven using Wheat and Leppa Berries.",
+    "location": "Crafted at Bread Oven",
+    "uses": ["ability-upgrade"],
+    "gamePhase": "early",
+    "farmingTip": "Leppa Berries add the sweet flavor many Pokemon prefer. Bake Leppa Bread as gifts alongside using it for Cut upgrades.",
+    "icon": "🍞",
+    "relatedItems": ["item-053", "item-034"]
+  },
+  {
+    "id": "item-055",
+    "name": "Carrot Bread",
+    "category": "food",
+    "rarity": "uncommon",
+    "description": "Nutritious bread made with fresh carrots baked into the loaf. Provides a dry-flavored Cut upgrade from the Bread Oven.",
+    "howToObtain": "Bake at the Bread Oven using Wheat and Carrots.",
+    "location": "Crafted at Bread Oven",
+    "uses": ["ability-upgrade"],
+    "gamePhase": "mid",
+    "farmingTip": "Carrots are available once you unlock the Rocky Ridges farm plots. The dry flavor makes this bread ideal for Pokemon that prefer dry foods.",
+    "icon": "🍞",
+    "relatedItems": ["item-053", "item-036"]
+  },
+  {
+    "id": "item-056",
+    "name": "Fluffy Bread",
+    "category": "food",
+    "rarity": "rare",
+    "description": "An extraordinarily soft and light bread made with Fluff and premium Wheat. The highest-tier bread recipe, providing the strongest Cut upgrade.",
+    "howToObtain": "Bake at the Bread Oven using Wheat, Fluff, and Honey.",
+    "location": "Crafted at Bread Oven",
+    "uses": ["ability-upgrade"],
+    "gamePhase": "mid",
+    "farmingTip": "Requires Fluff from Mareep habitats and Honey from Combee. This is the strongest Cut upgrade bread, worth the extra ingredient investment.",
+    "icon": "🍞",
+    "relatedItems": ["item-053", "item-012", "item-001"]
+  },
+  {
+    "id": "item-057",
+    "name": "Hamburger Steak",
+    "category": "food",
+    "rarity": "common",
+    "description": "A hearty ground patty cooked in the Frying Pan. The basic hamburger steak recipe that upgrades your Rock Smash ability.",
+    "howToObtain": "Cook at the Frying Pan using Beans and basic ingredients.",
+    "location": "Crafted at Frying Pan",
+    "uses": ["ability-upgrade"],
+    "gamePhase": "early",
+    "farmingTip": "Beans are the primary ingredient. Keep a dedicated bean farm running to ensure you always have Hamburger Steaks for Rock Smash upgrades.",
+    "icon": "🥩",
+    "relatedItems": ["item-058", "item-059", "item-038"]
+  },
+  {
+    "id": "item-058",
+    "name": "Mushroom Hamburger Steak",
+    "category": "food",
+    "rarity": "uncommon",
+    "description": "A savory hamburger steak topped with sauteed Glowing Mushrooms. Provides a bitter-flavored Rock Smash upgrade from the Frying Pan.",
+    "howToObtain": "Cook at the Frying Pan using Beans and Glowing Mushrooms.",
+    "location": "Crafted at Frying Pan",
+    "uses": ["ability-upgrade"],
+    "gamePhase": "mid",
+    "farmingTip": "Combine cave mushroom foraging with mining trips. The bitter flavor of this steak is preferred by Rock and Ground-type Pokemon.",
+    "icon": "🥩",
+    "relatedItems": ["item-057", "item-007"]
+  },
+  {
+    "id": "item-059",
+    "name": "Tomato Hamburger Steak",
+    "category": "food",
+    "rarity": "uncommon",
+    "description": "A juicy hamburger steak smothered in fresh tomato sauce. Made in the Frying Pan with a sour flavor that upgrades Rock Smash.",
+    "howToObtain": "Cook at the Frying Pan using Beans and Tomatoes.",
+    "location": "Crafted at Frying Pan",
+    "uses": ["ability-upgrade"],
+    "gamePhase": "mid",
+    "farmingTip": "Tomatoes from your farm pair perfectly with Beans. The sour flavor appeals to many Water and Grass-type Pokemon.",
+    "icon": "🥩",
+    "relatedItems": ["item-057", "item-037"]
+  },
+  {
+    "id": "item-060",
+    "name": "Vibrant Hamburger Steak",
+    "category": "food",
+    "rarity": "rare",
+    "description": "The ultimate hamburger steak bursting with color and flavor from multiple berry types. The strongest Rock Smash upgrade food available.",
+    "howToObtain": "Cook at the Frying Pan using Beans, multiple Berry types, and Honey.",
+    "location": "Crafted at Frying Pan",
+    "uses": ["ability-upgrade"],
+    "gamePhase": "mid",
+    "farmingTip": "Requires a variety of berries plus Honey. Worth the complex ingredients for the strongest Rock Smash upgrade. Save these for tough mining challenges.",
+    "icon": "🥩",
+    "relatedItems": ["item-057", "item-001"]
+  },
+  {
+    "id": "item-061",
+    "name": "Workbench",
+    "category": "furniture",
+    "rarity": "common",
+    "description": "The essential crafting station for building furniture, decorations, and other items. Every settlement needs at least one Workbench to function.",
+    "howToObtain": "Craft using Lumber and Stone. One of the first recipes taught in the tutorial.",
+    "location": "Crafted from basic materials",
+    "uses": ["crafting-station"],
+    "gamePhase": "early",
+    "farmingTip": "Build your first Workbench immediately after gathering initial materials. Place it centrally in your base for easy access during building sessions.",
+    "icon": "🔨",
+    "relatedItems": ["item-021", "item-003"]
+  },
+  {
+    "id": "item-062",
+    "name": "Storage Box",
+    "category": "furniture",
+    "rarity": "common",
+    "description": "A wooden chest for storing materials and items. Expands your storage capacity significantly and can be placed anywhere in your settlement.",
+    "howToObtain": "Craft at the Workbench using Lumber and Iron Ingots.",
+    "location": "Crafted at Workbench",
+    "uses": ["storage"],
+    "gamePhase": "early",
+    "farmingTip": "Build multiple Storage Boxes early. Organize by material type: one for ores, one for processed goods, one for food ingredients. Saves time later.",
+    "icon": "📦",
+    "relatedItems": ["item-021", "item-025"]
+  },
+  {
+    "id": "item-063",
+    "name": "Cooking Station",
+    "category": "furniture",
+    "rarity": "uncommon",
+    "description": "A full cooking setup that includes a Chopping Board, Cooking Pot, Bread Oven, and Frying Pan. Unlocks all food recipes when placed.",
+    "howToObtain": "Craft at the Workbench using Brick, Iron Ingots, and Lumber.",
+    "location": "Crafted at Workbench",
+    "uses": ["crafting-station", "cooking"],
+    "gamePhase": "early",
+    "farmingTip": "Build this as soon as you have Bricks and Iron Ingots. Food upgrades to Leafage, Water Gun, Cut, and Rock Smash are critical for progression.",
+    "icon": "🍳",
+    "relatedItems": ["item-022", "item-025", "item-021"]
+  },
+  {
+    "id": "item-064",
+    "name": "Smelting Furnace",
+    "category": "furniture",
+    "rarity": "uncommon",
+    "description": "A high-temperature furnace for smelting ores into ingots and processing raw materials. Essential for metalworking in mid-game.",
+    "howToObtain": "Craft at the Workbench using Brick, Stone, and Copper Ore.",
+    "location": "Crafted at Workbench",
+    "uses": ["crafting-station"],
+    "gamePhase": "mid",
+    "farmingTip": "Place near your ore storage for efficient processing. A Smelting-specialty Pokemon assigned to this furnace will process ores automatically.",
+    "icon": "🔥",
+    "relatedItems": ["item-022", "item-003", "item-016"]
+  },
+  {
+    "id": "item-065",
+    "name": "Loom",
+    "category": "furniture",
+    "rarity": "uncommon",
+    "description": "A textile crafting station for weaving Fluff, Twine, and other fibers into fabrics, rugs, and soft furnishings.",
+    "howToObtain": "Craft at the Workbench using Lumber, Twine, and Vine Rope.",
+    "location": "Crafted at Workbench",
+    "uses": ["crafting-station"],
+    "gamePhase": "mid",
+    "farmingTip": "The Loom unlocks fabric-based recipes including rugs, curtains, and cushion covers. Pair it with Mareep Fluff production for maximum output.",
+    "icon": "🧶",
+    "relatedItems": ["item-021", "item-008", "item-006"]
+  },
+  {
+    "id": "item-066",
+    "name": "Jeweler's Table",
+    "category": "furniture",
+    "rarity": "rare",
+    "description": "A precision crafting station for working with Crystal Fragments, Gold Ingots, and other precious materials into jewelry and luxury decorations.",
+    "howToObtain": "Craft at the Workbench using Gold Ingots, Crystal Fragments, and Lumber.",
+    "location": "Crafted at Workbench",
+    "uses": ["crafting-station"],
+    "gamePhase": "mid",
+    "farmingTip": "Unlocks high-value decoration recipes. The Crystal Chandelier and other premium items require this station. Worth the Gold Ingot investment.",
+    "icon": "💍",
+    "relatedItems": ["item-026", "item-023", "item-021"]
+  },
+  {
+    "id": "item-067",
+    "name": "Pikachu Sofa",
+    "category": "furniture",
+    "rarity": "rare",
+    "description": "An adorable sofa shaped like a lounging Pikachu, complete with red cheek cushions and a lightning-bolt tail backrest. A beloved Pokemon-themed furniture piece.",
+    "howToObtain": "Craft at the Workbench using Lumber, Fluff, and Yellow Paint.",
+    "location": "Crafted at Workbench",
+    "uses": ["decoration", "seating"],
+    "gamePhase": "mid",
+    "farmingTip": "Requires Yellow Paint from crushing Aspear Berries. Plan your berry farming to include Aspear Berries specifically for this recipe.",
+    "icon": "🛋️",
+    "relatedItems": ["item-021", "item-012", "item-093"]
+  },
+  {
+    "id": "item-068",
+    "name": "Snorlax Bean Bag",
+    "category": "furniture",
+    "rarity": "rare",
+    "description": "A massive, supremely comfortable bean bag chair modeled after a sleeping Snorlax. Pokemon and players alike can rest on its enormous belly.",
+    "howToObtain": "Craft at the Workbench using a large quantity of Fluff, Twine, and Blue Paint.",
+    "location": "Crafted at Workbench",
+    "uses": ["decoration", "seating"],
+    "gamePhase": "mid",
+    "farmingTip": "This recipe requires a lot of Fluff. Build extra Mareep habitats before attempting this craft. The result is worth the material investment.",
+    "icon": "🛋️",
+    "relatedItems": ["item-012", "item-008", "item-091"]
+  },
+  {
+    "id": "item-069",
+    "name": "Avalugg Table",
+    "category": "furniture",
+    "rarity": "rare",
+    "description": "A stunning ice-crystal table inspired by Avalugg's flat, icy body. Its translucent surface shimmers in the light. A statement piece for any room.",
+    "howToObtain": "Craft at the Workbench using Crystal Fragments, Glass, and Iron Ingots.",
+    "location": "Crafted at Workbench",
+    "uses": ["decoration", "furniture"],
+    "gamePhase": "mid",
+    "farmingTip": "Crystal Fragments from Rocky Ridges are the key ingredient. Glass adds the translucent effect. Pairs beautifully with the Crystal Chandelier.",
+    "icon": "🪑",
+    "relatedItems": ["item-023", "item-029", "item-025"]
+  },
+  {
+    "id": "item-070",
+    "name": "Slowpoke Rug",
+    "category": "furniture",
+    "rarity": "uncommon",
+    "description": "A soft, pink rug shaped like a sprawled-out Slowpoke. Woven at the Loom, it adds a cozy and whimsical touch to any room.",
+    "howToObtain": "Weave at the Loom using Fluff, Twine, and Pink Paint.",
+    "location": "Crafted at Loom",
+    "uses": ["decoration"],
+    "gamePhase": "mid",
+    "farmingTip": "Requires the Loom and Pink Paint from crushed Pecha Berries. One of the most popular decorations for Pokemon-themed rooms.",
+    "icon": "🟥",
+    "relatedItems": ["item-012", "item-008", "item-094"]
+  },
+  {
+    "id": "item-071",
+    "name": "Electrode Lamp",
+    "category": "furniture",
+    "rarity": "uncommon",
+    "description": "A spherical lamp designed to look like Electrode, glowing with electric energy. Provides bright lighting and adds personality to any room.",
+    "howToObtain": "Craft at the Workbench using Glass, Copper Ingots, and Red Paint.",
+    "location": "Crafted at Workbench",
+    "uses": ["decoration", "lighting"],
+    "gamePhase": "mid",
+    "farmingTip": "Glass and Copper Ingots are the main ingredients. The Red Paint gives it the classic Electrode look. Place near entrances for both style and function.",
+    "icon": "💡",
+    "relatedItems": ["item-029", "item-024", "item-090"]
+  },
+  {
+    "id": "item-072",
+    "name": "Wooden Chair",
+    "category": "furniture",
+    "rarity": "common",
+    "description": "A simple but sturdy wooden chair. One of the first furniture items you can craft, essential for furnishing homes and Pokemon Centers.",
+    "howToObtain": "Craft at the Workbench using Lumber.",
+    "location": "Crafted at Workbench",
+    "uses": ["seating"],
+    "gamePhase": "early",
+    "farmingTip": "Quick and cheap to craft. Build several early on to furnish the Pokemon Center and starter homes. Can be painted later for customization.",
+    "icon": "🪑",
+    "relatedItems": ["item-021"]
+  },
+  {
+    "id": "item-073",
+    "name": "Wooden Table",
+    "category": "furniture",
+    "rarity": "common",
+    "description": "A basic wooden table for dining or display. Pairs naturally with Wooden Chairs for a complete furniture set.",
+    "howToObtain": "Craft at the Workbench using Lumber and Sturdy Sticks.",
+    "location": "Crafted at Workbench",
+    "uses": ["furniture"],
+    "gamePhase": "early",
+    "farmingTip": "Craft alongside Wooden Chairs for matching sets. Tables can also serve as display surfaces for decorative items.",
+    "icon": "🪑",
+    "relatedItems": ["item-021", "item-002", "item-072"]
+  },
+  {
+    "id": "item-074",
+    "name": "Wooden Bed",
+    "category": "furniture",
+    "rarity": "common",
+    "description": "A cozy wooden bed frame with a Fluff mattress. Required in every home to make it a valid living space for Pokemon residents.",
+    "howToObtain": "Craft at the Workbench using Lumber, Fluff, and Twine.",
+    "location": "Crafted at Workbench",
+    "uses": ["furniture"],
+    "gamePhase": "early",
+    "farmingTip": "Every home needs a bed for a Pokemon to move in. Prioritize bed crafting when building new houses to attract residents quickly.",
+    "icon": "🛏️",
+    "relatedItems": ["item-021", "item-012", "item-008"]
+  },
+  {
+    "id": "item-075",
+    "name": "Bookshelf",
+    "category": "furniture",
+    "rarity": "uncommon",
+    "description": "A tall wooden bookshelf filled with volumes about Pokemon habitats and Pokopia lore. Adds an intellectual charm to any room.",
+    "howToObtain": "Craft at the Workbench using Lumber, Paper, and Iron Ingots.",
+    "location": "Crafted at Workbench",
+    "uses": ["decoration", "furniture"],
+    "gamePhase": "late",
+    "farmingTip": "Paper is the bottleneck ingredient, requiring Wastepaper from Sparkling Skylands. Stockpile Paper during Skylands exploration runs.",
+    "icon": "📚",
+    "relatedItems": ["item-021", "item-028", "item-025"]
+  },
+  {
+    "id": "item-076",
+    "name": "Dresser",
+    "category": "furniture",
+    "rarity": "uncommon",
+    "description": "A handsome wooden dresser with multiple drawers. Functions as both a decorative piece and extra storage in furnished rooms.",
+    "howToObtain": "Craft at the Workbench using Lumber, Iron Ingots, and Copper Ingots.",
+    "location": "Crafted at Workbench",
+    "uses": ["storage", "furniture"],
+    "gamePhase": "mid",
+    "farmingTip": "The metal hardware requires both Iron and Copper Ingots. A good intermediate furniture piece that adds storage to homes.",
+    "icon": "🗄️",
+    "relatedItems": ["item-021", "item-025", "item-024"]
+  },
+  {
+    "id": "item-077",
+    "name": "Community Box",
+    "category": "furniture",
+    "rarity": "uncommon",
+    "description": "A shared storage container accessible by all Pokemon in your settlement. Place in public areas so residents can deposit and retrieve items freely.",
+    "howToObtain": "Craft at the Workbench using Lumber, Iron Ingots, and Brick.",
+    "location": "Crafted at Workbench",
+    "uses": ["storage"],
+    "gamePhase": "mid",
+    "farmingTip": "Place one near your Workbench and another near farming areas. Pokemon will use these to store materials they find while exploring.",
+    "icon": "📦",
+    "relatedItems": ["item-062", "item-021", "item-025"]
+  },
+  {
+    "id": "item-078",
+    "name": "Pokemon Center Kit",
+    "category": "building-kit",
+    "rarity": "rare",
+    "description": "A comprehensive construction kit for rebuilding the Pokemon Center in each area. Each of the four main areas has a ruined Pokemon Center that can be restored with this kit.",
+    "howToObtain": "Craft at the Workbench using Lumber, Brick, Iron Ingots, Glass, and Copper Ingots.",
+    "location": "Crafted at Workbench",
+    "uses": ["building"],
+    "gamePhase": "mid",
+    "farmingTip": "Rebuilding each area's Pokemon Center is a major milestone. Gather all materials before starting, as construction cannot be paused. Restored Centers provide 3D Printing access.",
+    "icon": "🏥",
+    "relatedItems": ["item-021", "item-022", "item-025", "item-029"]
+  },
+  {
+    "id": "item-079",
+    "name": "Basic House Kit",
+    "category": "building-kit",
+    "rarity": "uncommon",
+    "description": "A construction kit for building a simple wooden home. The starter housing option that attracts Pokemon residents to your settlement.",
+    "howToObtain": "Craft at the Workbench using Lumber, Stone, and Vine Rope.",
+    "location": "Crafted at Workbench",
+    "uses": ["building"],
+    "gamePhase": "early",
+    "farmingTip": "Build Basic Houses first to get Pokemon moved in quickly. You can upgrade them later to fancier designs. Each house needs furniture inside to count as livable.",
+    "icon": "🏠",
+    "relatedItems": ["item-021", "item-003", "item-006"]
+  },
+  {
+    "id": "item-080",
+    "name": "Stone Cottage Kit",
+    "category": "building-kit",
+    "rarity": "uncommon",
+    "description": "A construction kit for building a charming stone cottage with a brick chimney. A mid-tier housing upgrade that Pokemon residents prefer over basic homes.",
+    "howToObtain": "Craft at the Workbench using Stone, Brick, Lumber, and Glass.",
+    "location": "Crafted at Workbench",
+    "uses": ["building"],
+    "gamePhase": "mid",
+    "farmingTip": "Stone Cottages increase Pokemon happiness compared to Basic Houses. Prioritize upgrading homes in areas where you want to attract rarer Pokemon.",
+    "icon": "🏡",
+    "relatedItems": ["item-003", "item-022", "item-021", "item-029"]
+  },
+  {
+    "id": "item-081",
+    "name": "Luxury Villa Kit",
+    "category": "building-kit",
+    "rarity": "rare",
+    "description": "A premium construction kit for building an elaborate multi-room villa. The highest-tier residential building, required to attract the most discerning Pokemon residents.",
+    "howToObtain": "Craft at the Workbench using Lumber, Brick, Gold Ingots, Glass, and Pokemetal.",
+    "location": "Crafted at Workbench",
+    "uses": ["building"],
+    "gamePhase": "late",
+    "farmingTip": "Luxury Villas require Gold Ingots and Pokemetal, making them endgame builds. Reserve these for attracting legendary or extremely rare Pokemon.",
+    "icon": "🏰",
+    "relatedItems": ["item-021", "item-022", "item-026", "item-029", "item-027"]
+  },
+  {
+    "id": "item-082",
+    "name": "Grass Habitat Kit",
+    "category": "building-kit",
+    "rarity": "uncommon",
+    "description": "A habitat construction kit designed to attract Grass-type Pokemon. Features lush garden beds, vine trellises, and mossy stones.",
+    "howToObtain": "Craft at the Workbench using Lumber, Leaves, Vine Rope, and Squishy Clay.",
+    "location": "Crafted at Workbench",
+    "uses": ["building"],
+    "gamePhase": "early",
+    "farmingTip": "Build in areas with natural vegetation for maximum effectiveness. Grass habitats attract Bulbasaur, Bellsprout, and other Grass-types that provide useful Litter drops.",
+    "icon": "🌿",
+    "relatedItems": ["item-021", "item-004", "item-006", "item-011"]
+  },
+  {
+    "id": "item-083",
+    "name": "Freezing Chambers Kit",
+    "category": "building-kit",
+    "rarity": "legendary",
+    "description": "A legendary habitat construction kit for building the Freezing Chambers in Palette Town. This unique structure attracts the legendary bird Articuno when completed.",
+    "howToObtain": "Craft at the Workbench using Pokemetal, Crystal Fragments, Glass, Iron Ingots, and Stardust.",
+    "location": "Crafted at Workbench",
+    "uses": ["building"],
+    "gamePhase": "late",
+    "farmingTip": "This is one of three legendary habitat kits. Pokemetal and Stardust are the hardest ingredients to gather. Articuno will visit once the Freezing Chambers are fully built and furnished.",
+    "icon": "🧊",
+    "relatedItems": ["item-027", "item-023", "item-029", "item-039"]
+  },
+  {
+    "id": "item-084",
+    "name": "Abandoned Power Plant Kit",
+    "category": "building-kit",
+    "rarity": "legendary",
+    "description": "A legendary habitat construction kit for rebuilding the Abandoned Power Plant in Palette Town. This electrifying structure attracts the legendary bird Zapdos.",
+    "howToObtain": "Craft at the Workbench using Pokemetal, Tinkagears, Copper Ingots, Iron Ingots, and Stardust.",
+    "location": "Crafted at Workbench",
+    "uses": ["building"],
+    "gamePhase": "late",
+    "farmingTip": "Tinkagears from Tinkaton are essential. Start stockpiling Tinkagears and Pokemetal well before attempting this build. Zapdos arrives once the Power Plant is complete.",
+    "icon": "⚡",
+    "relatedItems": ["item-027", "item-030", "item-024", "item-039"]
+  },
+  {
+    "id": "item-085",
+    "name": "Altar of Flame Kit",
+    "category": "building-kit",
+    "rarity": "legendary",
+    "description": "A legendary habitat construction kit for constructing the Altar of Flame in Palette Town. This sacred structure attracts the legendary bird Moltres and eventually Ho-Oh.",
+    "howToObtain": "Craft at the Workbench using Pokemetal, Gold Ingots, Brick, Stardust, and Rare Pokemetal Fragments.",
+    "location": "Crafted at Workbench",
+    "uses": ["building"],
+    "gamePhase": "late",
+    "farmingTip": "The most expensive legendary habitat, requiring Rare Pokemetal Fragments. Moltres arrives first; Ho-Oh requires all three legendary birds to be present in Palette Town.",
+    "icon": "🔥",
+    "relatedItems": ["item-027", "item-026", "item-022", "item-039", "item-020"]
+  },
+  {
+    "id": "item-086",
+    "name": "Crystal Chandelier",
+    "category": "decoration",
+    "rarity": "rare",
+    "description": "A dazzling chandelier crafted from Crystal Fragments and Gold Ingots. Illuminates rooms with prismatic light and serves as the ultimate luxury ceiling decoration.",
+    "howToObtain": "Craft at the Jeweler's Table using Crystal Fragments, Gold Ingots, and Twine.",
+    "location": "Crafted at Jeweler's Table",
+    "uses": ["decoration", "lighting"],
+    "gamePhase": "mid",
+    "farmingTip": "Requires the Jeweler's Table. Crystal Fragments are the main bottleneck. This is the most impressive lighting decoration and dramatically improves room ratings.",
+    "icon": "🪔",
+    "relatedItems": ["item-023", "item-026", "item-066"]
+  },
+  {
+    "id": "item-087",
+    "name": "Town Map",
+    "category": "decoration",
+    "rarity": "uncommon",
+    "description": "A framed map of Pokopia showing all four main areas and Palette Town. A wall decoration that helps Pokemon navigate and adds a scholarly touch to rooms.",
+    "howToObtain": "Craft at the Workbench using Paper, Lumber, and Twine.",
+    "location": "Crafted at Workbench",
+    "uses": ["decoration"],
+    "gamePhase": "late",
+    "farmingTip": "Paper from recycled Wastepaper is needed. A nice decorative piece for Pokemon Center lobbies and residential homes alike.",
+    "icon": "🗺️",
+    "relatedItems": ["item-028", "item-021", "item-008"]
+  },
+  {
+    "id": "item-088",
+    "name": "Mossy Wall Tapestry",
+    "category": "decoration",
+    "rarity": "uncommon",
+    "description": "A living wall decoration woven with moss, vines, and Glowing Mushrooms. Creates a natural, enchanted atmosphere in any room.",
+    "howToObtain": "Weave at the Loom using Vine Rope, Glowing Mushrooms, Leaves, and Twine.",
+    "location": "Crafted at Loom",
+    "uses": ["decoration"],
+    "gamePhase": "mid",
+    "farmingTip": "The Glowing Mushrooms give this tapestry a soft bioluminescent glow at night. Pairs well with nature-themed rooms and Grass-type Pokemon habitats.",
+    "icon": "🌿",
+    "relatedItems": ["item-006", "item-007", "item-004", "item-065"]
+  },
+  {
+    "id": "item-089",
+    "name": "Arcade Machine",
+    "category": "decoration",
+    "rarity": "rare",
+    "description": "A retro arcade cabinet featuring classic Pokemon minigames. A functional decoration that Pokemon residents can interact with for entertainment and happiness boosts.",
+    "howToObtain": "Craft at the Workbench using Iron Ingots, Tinkagears, Glass, and Copper Ingots.",
+    "location": "Crafted at Workbench",
+    "uses": ["decoration", "entertainment"],
+    "gamePhase": "mid",
+    "farmingTip": "Tinkagears and Glass are the key components. Place in Pokemon Centers or community areas for maximum resident happiness. Pokemon love playing the minigames.",
+    "icon": "🕹️",
+    "relatedItems": ["item-025", "item-030", "item-029", "item-024"]
+  },
+  {
+    "id": "item-090",
+    "name": "Red Paint",
+    "category": "paint",
+    "rarity": "common",
+    "description": "Vibrant red paint produced by using the Crush specialty on Cheri Berries. Used to color furniture, walls, and decorations in bold red hues.",
+    "howToObtain": "Use the Crush specialty on Cheri Berries.",
+    "location": "Processed at your base",
+    "uses": ["crafting", "painting"],
+    "gamePhase": "early",
+    "farmingTip": "Cheri Berries are common and easy to farm. Grow a dedicated patch for consistent Red Paint production. Red is used in many Pokemon-themed furniture recipes.",
+    "icon": "🎨",
+    "relatedItems": ["item-091", "item-093", "item-071"]
+  },
+  {
+    "id": "item-091",
+    "name": "Blue Paint",
+    "category": "paint",
+    "rarity": "common",
+    "description": "Deep blue paint created by crushing Oran Berries with the Crush specialty. Essential for water-themed decorations and several Pokemon furniture recipes.",
+    "howToObtain": "Use the Crush specialty on Oran Berries.",
+    "location": "Processed at your base",
+    "uses": ["crafting", "painting"],
+    "gamePhase": "early",
+    "farmingTip": "Oran Berries are plentiful in most areas. Blue Paint is needed for the Snorlax Bean Bag, water-themed rooms, and many wall colors.",
+    "icon": "🎨",
+    "relatedItems": ["item-090", "item-092", "item-068"]
+  },
+  {
+    "id": "item-092",
+    "name": "Green Paint",
+    "category": "paint",
+    "rarity": "common",
+    "description": "Natural green paint made by crushing Rawst Berries. Perfect for nature-themed builds, Grass-type habitat accents, and forest-style decorations.",
+    "howToObtain": "Use the Crush specialty on Rawst Berries.",
+    "location": "Processed at your base",
+    "uses": ["crafting", "painting"],
+    "gamePhase": "early",
+    "farmingTip": "Rawst Berries grow quickly and are widely available. Green Paint complements the natural aesthetic of Withered Wasteland builds.",
+    "icon": "🎨",
+    "relatedItems": ["item-090", "item-091"]
+  },
+  {
+    "id": "item-093",
+    "name": "Yellow Paint",
+    "category": "paint",
+    "rarity": "common",
+    "description": "Bright yellow paint produced by crushing Aspear Berries. A key ingredient for Electric-type themed builds and the popular Pikachu Sofa.",
+    "howToObtain": "Use the Crush specialty on Aspear Berries.",
+    "location": "Processed at your base",
+    "uses": ["crafting", "painting"],
+    "gamePhase": "early",
+    "farmingTip": "Aspear Berries from your farm are the source. Yellow is required for the Pikachu Sofa and Electrode Lamp color variants. Keep a steady supply growing.",
+    "icon": "🎨",
+    "relatedItems": ["item-090", "item-032", "item-067"]
+  },
+  {
+    "id": "item-094",
+    "name": "Pink Paint",
+    "category": "paint",
+    "rarity": "common",
+    "description": "Soft pink paint made by crushing Pecha Berries. Used in Fairy-type themed decorations, the Slowpoke Rug, and pastel-colored furniture.",
+    "howToObtain": "Use the Crush specialty on Pecha Berries.",
+    "location": "Processed at your base",
+    "uses": ["crafting", "painting"],
+    "gamePhase": "early",
+    "farmingTip": "Pecha Berries are one of the most common berries. Pink Paint is needed for many cute Pokemon-themed items. Double up your Pecha farm for cooking and painting.",
+    "icon": "🎨",
+    "relatedItems": ["item-090", "item-035", "item-070"]
+  },
+  {
+    "id": "item-095",
+    "name": "Cyan Paint",
+    "category": "paint",
+    "rarity": "uncommon",
+    "description": "A cool cyan paint made by mixing Blue and Green paint processes. Used in Ice-type themed builds, sky decorations, and ocean-style furnishings.",
+    "howToObtain": "Use the Crush specialty on a combination of Oran and Rawst Berries.",
+    "location": "Processed at your base",
+    "uses": ["crafting", "painting"],
+    "gamePhase": "mid",
+    "farmingTip": "Requires two berry types to produce. Cyan is perfect for Bleak Beach themed rooms and Ice-type habitat accents. Less common than primary colors.",
+    "icon": "🎨",
+    "relatedItems": ["item-091", "item-092"]
+  },
+  {
+    "id": "item-096",
+    "name": "White Paint",
+    "category": "paint",
+    "rarity": "rare",
+    "description": "Pure white paint, a rare product of crushing Leppa Berries. Highly sought after for clean modern builds, highlights, and mixing with other paints for lighter shades.",
+    "howToObtain": "Use the Crush specialty on Leppa Berries. Rare drop rate.",
+    "location": "Processed at your base",
+    "uses": ["crafting", "painting"],
+    "gamePhase": "mid",
+    "farmingTip": "White Paint has a low yield from Leppa Berries, making it one of the rarer paints. Dedicate a large Leppa Berry farm and crush in bulk for best results.",
+    "icon": "🎨",
+    "relatedItems": ["item-034", "item-097"]
+  },
+  {
+    "id": "item-097",
+    "name": "Black Paint",
+    "category": "paint",
+    "rarity": "rare",
+    "description": "Deep black paint, rarely produced by crushing Aspear Berries. Essential for dark-themed builds, Gothic decorations, and creating striking color contrasts.",
+    "howToObtain": "Use the Crush specialty on Aspear Berries. Rare drop rate.",
+    "location": "Processed at your base",
+    "uses": ["crafting", "painting"],
+    "gamePhase": "mid",
+    "farmingTip": "Black Paint is the rarest paint alongside White. Aspear Berries usually yield Yellow Paint, with Black being an uncommon alternative. Crush large batches and hope for luck.",
+    "icon": "🎨",
+    "relatedItems": ["item-032", "item-096"]
+  },
+  {
+    "id": "item-098",
+    "name": "3D Printer",
+    "category": "tool",
+    "rarity": "rare",
+    "description": "An advanced fabrication device found at rebuilt Pokemon Centers. Take photos of items in the world, then use the 3D Printer to craft replica furniture and decorations from those photos.",
+    "howToObtain": "Available at rebuilt Pokemon Centers. Requires the Pokemon Center to be fully restored.",
+    "location": "Pokemon Centers (after rebuilding)",
+    "uses": ["crafting-station"],
+    "gamePhase": "mid",
+    "farmingTip": "Photograph every interesting item and decoration you find while exploring. The 3D Printer can reproduce them using basic materials, unlocking unique items you cannot craft any other way.",
+    "icon": "🖨️",
+    "relatedItems": ["item-078"]
+  },
+  {
+    "id": "item-099",
+    "name": "Concrete Mixer",
+    "category": "tool",
+    "rarity": "uncommon",
+    "description": "An industrial mixing station for producing Concrete from Limestone. Unlocked upon reaching Sparkling Skylands, enabling urban-style construction.",
+    "howToObtain": "Craft at the Workbench using Iron Ingots, Tinkagears, and Brick. Unlocked when Sparkling Skylands is accessible.",
+    "location": "Crafted at Workbench",
+    "uses": ["crafting-station"],
+    "gamePhase": "late",
+    "farmingTip": "Build immediately upon reaching Sparkling Skylands. Concrete is needed for most Skylands-era construction and several late-game buildings in Palette Town.",
+    "icon": "🏗️",
+    "relatedItems": ["item-031", "item-025", "item-030"]
+  },
+  {
+    "id": "item-100",
+    "name": "Sprinkler System",
+    "category": "tool",
+    "rarity": "uncommon",
+    "description": "An automated watering system for your farm plots. Once installed, it waters crops daily without needing a Water Gun Pokemon, freeing up your companions for other tasks.",
+    "howToObtain": "Craft at the Workbench using Copper Ingots, Tinkagears, and Iron Ingots.",
+    "location": "Crafted at Workbench",
+    "uses": ["farming"],
+    "gamePhase": "mid",
+    "farmingTip": "A game-changing quality-of-life upgrade. Install one per farm zone to automate watering entirely. This frees your Water-type companion for exploration and pollution cleanup.",
+    "icon": "💦",
+    "relatedItems": ["item-024", "item-030", "item-025"]
+  },
+  {
+    "id": "item-101",
+    "name": "Flower Planter",
+    "category": "decoration",
+    "rarity": "common",
+    "description": "A decorative planter box for growing flowers from Flower Seeds. Place along paths, around buildings, and near habitats to beautify your settlement.",
+    "howToObtain": "Craft at the Workbench using Lumber, Squishy Clay, and Flower Seeds.",
+    "location": "Crafted at Workbench",
+    "uses": ["decoration", "farming"],
+    "gamePhase": "early",
+    "farmingTip": "Flower Planters increase area beauty scores and attract Bug-type Pokemon. Line your main paths with these for both aesthetics and practical benefits.",
+    "icon": "🌸",
+    "relatedItems": ["item-021", "item-011"]
+  },
+  {
+    "id": "item-102",
+    "name": "Seashell Wind Chime",
+    "category": "decoration",
+    "rarity": "uncommon",
+    "description": "A delicate wind chime crafted from polished Seashells and Twine. Makes gentle tinkling sounds in the breeze and adds a coastal ambiance to outdoor spaces.",
+    "howToObtain": "Craft at the Workbench using Seashells, Twine, and Sturdy Sticks.",
+    "location": "Crafted at Workbench",
+    "uses": ["decoration"],
+    "gamePhase": "mid",
+    "farmingTip": "Seashells from Bleak Beach are easy to stockpile once the area is cleaned up. Wind Chimes are a popular outdoor decoration that complements beach-themed builds.",
+    "icon": "🎐",
+    "relatedItems": ["item-010", "item-008", "item-002"]
+  },
+  {
+    "id": "item-103",
+    "name": "Sea Glass Lantern",
+    "category": "decoration",
+    "rarity": "uncommon",
+    "description": "A glowing lantern made from polished Sea Glass Fragments and Copper Ingots. Casts soft, multicolored light through its frosted glass panels.",
+    "howToObtain": "Craft at the Workbench using Sea Glass Fragments, Copper Ingots, and Twine.",
+    "location": "Crafted at Workbench",
+    "uses": ["decoration", "lighting"],
+    "gamePhase": "mid",
+    "farmingTip": "Sea Glass Fragments from cleaned Bleak Beach tiles are the key ingredient. These lanterns look stunning along coastal paths and in ocean-themed rooms.",
+    "icon": "🏮",
+    "relatedItems": ["item-009", "item-024", "item-008"]
+  },
+  {
+    "id": "item-104",
+    "name": "Healthy Soup",
+    "category": "food",
+    "rarity": "uncommon",
+    "description": "A nutritious green soup packed with fresh vegetables and Leaves. Prepared in the Cooking Pot, it provides a balanced Water Gun upgrade with no dominant flavor.",
+    "howToObtain": "Cook at the Cooking Pot using Leaves, Beans, and Tomatoes.",
+    "location": "Crafted at Cooking Pot",
+    "uses": ["ability-upgrade"],
+    "gamePhase": "mid",
+    "farmingTip": "Uses common farm ingredients making it easy to produce in quantity. The balanced flavor means any Pokemon will happily eat it for the Water Gun boost.",
+    "icon": "🍲",
+    "relatedItems": ["item-049", "item-004", "item-038"]
+  },
+  {
+    "id": "item-105",
+    "name": "Bread Bowl",
+    "category": "food",
+    "rarity": "rare",
+    "description": "A hollowed-out bread loaf filled with rich soup. Combines the Cut upgrade of bread with the Water Gun upgrade of soup for a dual-ability boost. The ultimate cooking achievement.",
+    "howToObtain": "Bake at the Bread Oven using Wheat, Beans, Tomatoes, and Honey.",
+    "location": "Crafted at Bread Oven",
+    "uses": ["ability-upgrade"],
+    "gamePhase": "mid",
+    "farmingTip": "The only food that upgrades two abilities at once (Cut and Water Gun). Requires more ingredients but the dual boost makes it incredibly valuable for tough areas.",
+    "icon": "🍞",
+    "relatedItems": ["item-053", "item-049", "item-001"]
   }
 ]

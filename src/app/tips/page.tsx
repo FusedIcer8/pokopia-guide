@@ -79,12 +79,13 @@ export default function TipsPage() {
             {filteredTips.map((tip) => {
               const isExpanded = expandedTip === tip.id;
               return (
-                <div
+                <button
                   key={tip.id}
                   className="card tip-card"
                   data-category={tip.category}
-                  style={{ cursor: 'pointer' }}
+                  style={{ cursor: 'pointer', width: '100%', textAlign: 'left' }}
                   onClick={() => setExpandedTip(isExpanded ? null : tip.id)}
+                  type="button"
                 >
                   <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: '0.75rem' }}>
                     <div style={{ display: 'flex', alignItems: 'flex-start', gap: '0.75rem', flex: 1 }}>
@@ -126,7 +127,7 @@ export default function TipsPage() {
                       {isFavorite(tip.id) ? '❤️' : '🤍'}
                     </button>
                   </div>
-                </div>
+                </button>
               );
             })}
             {filteredTips.length === 0 && (
@@ -144,10 +145,12 @@ export default function TipsPage() {
             {guidesData.map((guide) => {
               const isExpanded = expandedGuide === guide.id;
               return (
-                <div
+                <button
                   key={guide.id}
                   className="card card-hoverable"
                   onClick={() => setExpandedGuide(isExpanded ? null : guide.id)}
+                  type="button"
+                  style={{ width: '100%', textAlign: 'left', cursor: 'pointer' }}
                 >
                   <div style={{ display: 'flex', alignItems: 'flex-start', gap: '0.75rem' }}>
                     <span style={{ fontSize: '2rem', flexShrink: 0 }}>📚</span>
@@ -180,9 +183,9 @@ export default function TipsPage() {
                     </div>
                   </div>
                   <div style={{ textAlign: 'right', marginTop: '0.5rem', fontSize: '0.8rem', color: 'var(--text-muted)' }}>
-                    {isExpanded ? 'Click to collapse' : 'Click to expand'}
+                    {isExpanded ? 'Tap to collapse' : 'Tap to expand'}
                   </div>
-                </div>
+                </button>
               );
             })}
           </div>

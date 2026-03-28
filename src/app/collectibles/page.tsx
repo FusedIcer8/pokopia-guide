@@ -120,12 +120,14 @@ export default function CollectiblesPage() {
                 {/* Top row: checkbox + icon + fav */}
                 <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '0.5rem' }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-                    <div
+                    <button
                       className={`checklist-checkbox ${checked ? 'checked' : ''}`}
                       onClick={() => toggleCheck('collectibles', col.id)}
+                      type="button"
+                      aria-label={checked ? `Unmark ${col.name}` : `Mark ${col.name} as collected`}
                     >
                       {checked ? '✓' : ''}
-                    </div>
+                    </button>
                     <span style={{ fontSize: '2rem' }}>{col.icon}</span>
                   </div>
                   <button
@@ -159,18 +161,19 @@ export default function CollectiblesPage() {
                 </div>
 
                 {/* Spoiler (blur toggle) */}
-                <div
+                <button
                   className={`spoiler ${spoilerRevealed ? 'spoiler-revealed' : 'spoiler-hidden'}`}
                   onClick={() => toggleSpoiler(col.id)}
-                  style={{ fontSize: '0.85rem' }}
+                  type="button"
+                  style={{ fontSize: '0.85rem', width: '100%', textAlign: 'left' }}
                 >
                   <div className="spoiler-content">
                     <p style={{ margin: 0 }}>{col.spoiler}</p>
                   </div>
                   {!spoilerRevealed && (
-                    <div className="spoiler-overlay">🔒 Click to reveal</div>
+                    <div className="spoiler-overlay">Tap to reveal</div>
                   )}
-                </div>
+                </button>
               </div>
             );
           })}
